@@ -1,0 +1,1016 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://access.line.me/oauth2/v2.1/login?loginState=VbZMSH51EHSy50niOOopAl&loginChannelId=1648148465&returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fbot_prompt%3Dnormal%26scope%3Dopenid%2Bprofile%26response_type%3Dcode%26state%3DPtJoVGc9zx%26redirect_u#/
+Subject: LINE Login
+Date: Thu, 13 Feb 2025 23:04:25 +0900
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----"
+
+
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/html
+Content-ID: <frame-3E256DA10156EF5A6C36C881B0839289@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://access.line.me/oauth2/v2.1/login?loginState=VbZMSH51EHSy50niOOopAl&loginChannelId=1648148465&returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fbot_prompt%3Dnormal%26scope%3Dopenid%2Bprofile%26response_type%3Dcode%26state%3DPtJoVGc9zx%26redirect_u#/
+
+<!DOCTYPE html><html dir="ltr" lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-ad3c8e8a-d6c9-4a17-8aab-76bc56f9a94c@mhtml.blink" />
+      
+
+
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>LINE Login</title>
+
+  <meta property="og:title" content="LINEログイン">
+  <meta property="og:description" content="ロンシャン にログインする">
+  <meta property="og:image" content="https://vos.line-scdn.net/login-web/img/favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="https://vos.line-scdn.net/login-web/img/favicon.ico">
+  <link rel="icon" type="image/x-icon" sizes="32x32" href="https://vos.line-scdn.net/login-web/img/favicon-32x32.png">
+  <link rel="icon" type="image/x-icon" sizes="16x16" href="https://vos.line-scdn.net/login-web/img/favicon-16x16.png">
+
+  <link rel="apple-touch-icon-precomposed" href="https://vos.line-scdn.net/login-web/img/apple-touch-icon-precomposed.png">
+
+
+
+
+
+      
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/modulepreload-polyfill-Dqv5PPZA.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/common-GMgTCURi.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/Constant-DvWA3Li3.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/_commonjsHelpers-MdiGH4nz.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/createLayoutWrapper-Dru8o6Sr.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/cPinCode-CzVaH9fg.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/createRouter-De6dUZ0V.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/OverlayMixin-jZEHrJoL.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/ldsg-popup-CdC0cCLK.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/ldsm-text-button-f37SdNe-.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/_getPrototype-BczSPjX6.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/lFooter01-CwtHNwgY.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/axiosPlugin-D1SZuOkZ.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/uaPlugin-B5rBq2VH.js">
+    <link rel="modulepreload" crossorigin="" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/darkModePlugin-DpIphuF4.js">
+    <link rel="stylesheet" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/common-DoF53J76.css">
+    <link rel="stylesheet" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/cPinCode-B2vE_bMb.css">
+    <link rel="stylesheet" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/ldsm-text-button-BXS5hqXD.css">
+    <link rel="stylesheet" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/ldsm-semantic-dark-mode-8-gBXRYH.css">
+    <link rel="stylesheet" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/lFooter01-1Nnu-4mf.css">
+    <link rel="stylesheet" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/index-86w1XHkq.css">
+    <link rel="stylesheet" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/ldsm-semantic-dark-mode-8-gBXRYH.css">
+    <link rel="stylesheet" href="https://static.line-scdn.net/line_web_login/edge/dist/assets/main-DidSfuvZ.css">
+
+</head>
+
+<body>
+
+
+<div id="__layout">
+  <div class="LyBody" id="app" data-v-app=""><div data-v-5e1b85d8="" class="LyWrap"><div data-v-5e1b85d8="" class="LyContents" role="main"><div data-v-5e1b85d8="" class="lyContentsInner"><div data-v-8c673558="" data-v-5e1b85d8="" class=""><aside data-v-8c673558="" class="MdMN01Banner"><div data-v-8c673558="" class="mdMN01Inner"><div data-v-8c673558="" class="mdMN01Txt01"><span data-v-8c673558="" class="mdMN01Txt01P01">LINE</span><span data-v-8c673558=""><span class="mdMN01Txt01P02">Google Play</span>からダウンロード</span></div><a data-v-8c673558="" href="intent://access.line.me/oauth2/v2.1/login?loginState=VbZMSH51EHSy50niOOopAl&amp;loginChannelId=1648148465&amp;returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fbot_prompt%3Dnormal%26scope%3Dopenid%2Bprofile%26response_type%3Dcode%26state%3DPtJoVGc9zx%26redirect_u#Intent;scheme=https;package=jp.naver.line.android;end" class="mdMN01Btn">ダウンロード</a><p data-v-8c673558="" class="MdIco01Close">close</p></div></aside></div><div data-v-976baaf8="" data-v-5e1b85d8="" class="MdBox01"><div data-v-976baaf8="" class="mdBox01Inner"><div data-v-976baaf8="" class="MdLogo01"><h1 data-v-976baaf8="" class="mdLogo01Img"> LINE </h1></div><form data-v-976baaf8="" method="post" action="https://access.line.me/oauth2/v2.1/authenticate" novalidate=""><fieldset data-v-976baaf8="" class="MdFormGroup01"><legend data-v-976baaf8="">Login</legend><div data-v-f68c6b6d="" data-v-976baaf8="" class="MdInputTxt01" modelmodifiers="[object Object]"><label data-v-f68c6b6d="" class="mdInputTxt01Label">メールアドレス</label><input data-v-f68c6b6d="" type="text" name="tid" placeholder="メールアドレス" autocapitalize="off" autocorrect="off" spellcheck="false" value=""></div><div data-v-5466084b="" data-v-976baaf8="" class="MdInputTxt01" modelmodifiers="[object Object]"><label data-v-5466084b="" class="mdInputTxt01Label">パスワード</label><input data-v-5466084b="" type="password" name="tpasswd" placeholder="パスワード" value=""></div><!----><div data-v-976baaf8="" class="mdFormGroup01Btn"><button data-v-976baaf8="" type="submit" class="MdBtn01 ExDisabled" disabled="">ログイン</button></div><!----><div data-v-976baaf8="" class="MdFormError01 MdHide"><p data-v-976baaf8="" class="mdFormErrorTxt01"></p></div></fieldset></form><div data-v-976baaf8="" class="MdMN04QrLogin"><h3 data-v-976baaf8="" class="MdTtl01"><span data-v-976baaf8="" class="mdTtl01Inner">または他の方法でログイン</span></h3><a data-v-976baaf8="" href="https://access.line.me/oauth2/v2.1/login?loginState=VbZMSH51EHSy50niOOopAl&amp;loginChannelId=1648148465&amp;returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fbot_prompt%3Dnormal%26scope%3Dopenid%2Bprofile%26response_type%3Dcode%26state%3DPtJoVGc9zx%26redirect_u#/qr" class="MdBtn02"><span data-v-976baaf8="">QRコードログイン</span></a></div><div data-v-976baaf8="" class="MdMN03Etc"><!----><button data-v-976baaf8="" type="button" class="mdMN03EtcLink01">メールアドレス・パスワードの確認はこちら</button><a data-v-976baaf8="" href="intent://access.line.me/oauth2/v2.1/login?loginState=VbZMSH51EHSy50niOOopAl&amp;loginChannelId=1648148465&amp;returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fbot_prompt%3Dnormal%26scope%3Dopenid%2Bprofile%26response_type%3Dcode%26state%3DPtJoVGc9zx%26redirect_u#Intent;scheme=https;package=jp.naver.line.android;end" class="mdMN03EtcLink01">LINEアプリでログイン</a></div></div><ldsg-bottom-sheet data-v-976baaf8=""><template shadowmode="open"><!---->
+      <slot name="invoker"></slot>
+      <div id="overlay-content-node-wrapper">
+        <slot name="backdrop"></slot>
+        <slot name="content"></slot>
+      </div>
+    </template></ldsg-bottom-sheet><!----></div><footer data-v-5e1b85d8="" class="LyFoot"><div class="lyFootInner"><div class="MdGFT01Copy"><small>©&nbsp;<b>LY Corporation</b></small></div><h5 class="MdHide">LINEヤフー株式会社のリンク</h5><div class="MdGFT02Link"><ul class="mdGFT02Ul link-list"><!----><li><a href="https://terms.line.me/line_rules/?lang=ja" target="_blank" rel="noopener">プライバシーポリシー</a></li><li><a href="https://terms.line.me/line_terms/?lang=ja" target="_blank" rel="noopener">利用規約</a></li></ul></div></div></footer></div></div></div></div>
+
+  
+</div>
+
+
+
+
+
+
+
+
+
+<div class="global-overlays"><ldsg-backdrop data-tag-name="ldsg-backdrop" slot="backdrop"><template shadowmode="open"><!----></template></ldsg-backdrop><div style="display: none;"><ldsg-bottom-sheet-content data-v-976baaf8="" slot="content" action-layout="vertical" has-close-button="" has-title="" has-description="" has-avatar="" has-action="" has-avatar-on-top="" image-ratio="4x3" font-size="L" close-button-theme="light" image-position="top" additional-item-position="bottom" content-type="default" id="overlay-content--ryh679mhx2" role="dialog"><template shadowmode="open"><!---->
+      <div class="content">
+        <div class="handlebar"></div>
+        <div class="header"></div>
+
+        <!--?lit$2524576367$-->
+      <div class="content-group-one">
+        <slot name="content-group-one">
+          <div class="image">
+            <slot name="image"></slot>
+          </div>
+          <div class="title">
+            <slot name="title"></slot>
+          </div>
+          <div class="description">
+            <slot name="description"></slot>
+          </div>
+        </slot>
+        <div class="content-group-one__bottom"></div>
+      </div>
+     <!--?lit$2524576367$-->
+      <div class="content-group-two">
+        <slot name="content-group-two">
+          <div class="additional-item">
+            <slot name="additional-item"></slot>
+          </div>
+          <div class="action">
+            <slot name="action"></slot>
+          </div>
+        </slot>
+      </div>
+    
+
+        <div class="home-indicator"></div>
+
+        <!--?lit$2524576367$-->
+          <button type="button" class="close-button" aria-label="Close overlay content">
+            <!--?lit$2524576367$-->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+    <g transform="translate(-2 -2)">
+      <path d="M17.8418 5.239l.9192.9192L12.919 12l5.842 5.8418-.9192.9192L12 12.919l-5.8418 5.842-.9192-.9192L11.08 12 5.239 6.1582l.9192-.9192L12 11.08l5.8418-5.841z"></path>
+    </g>
+  </svg>
+
+          </button>
+        
+      </div>
+    </template><ldsg-avatar data-v-976baaf8="" slot="title" size="XL"><template shadowmode="open"><!----> <span class="avatar"> <!--?lit$2524576367$--><!--?lit$2524576367$--><img class="content content--image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAABICAYAAAC6L9h5AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAi2SURBVHgB7VxbbBtFFL0zu3acUuhCebQqVV1AReKhOr8IUacQIRAIJzx/UAMCBPy0PCRAfCQRfABCtBES4gNUIpCAAqrhgx8aHF4flJepoKhFAYNCgQrKNm0Sv3aGe8de147teP3Mxs5Rt57ZnX3Myb137tx5MGgxfJE7/AJSARAygNkNwNSvISUYDH/tchLAZAwPgBhIZmL+e+AsysGKxnvDMWghGLQAvsgtQSnETZLJEL7SD5zejK/meGh5n5L/NTL7n8ymhcwelJcxLDzBOR+L9747AU1G00iyiREgBxlnBug8QwhrwCtR7MDC37Qg4mIZwsRIsySs4SQpcqQ1JIEFQcfHEznNlFeSMiIrjW8EOcGYNtJo6WrY5xeQ40Fi9JZociGQKEiJLFnyrkZJVt01MSIhYwb4EJOwAzxZyVlsZMlCrdylcTFaL1l1kUTSI4S1G4nxK+lZBOEpC1LDFKmhiHGBUtUXnoAaUfOf3RsZGBJSRMCn+cHrMoII9D30XV7NLzQeoe+FGlF11Ui9ZoHvxOQgfkAdNLcQJFUJC5iAcDcXd5m9YbOa26siyRcJ+YXF9qJqBdRfaakhiepniShnsr8aO+WYJEWQYBEkKGN/lirITqXQTnHZ65QoRyQpFRPsuyVPkI0sUSu47HGieo5qPGu1gQTlg+qB9ZmTaDocoGKtPZGBndjEB9qGIBtYH6nxoGd8YGelogvW3BO5ebtyEpeikXYCJAq7kju6xgd2LFSsrE0iQ22hHWI+3VgSzXytIPcgnjaxxespZ8jLVl+gvjIvb2+CCCQmuobxLLa7XJGSFHjGQ4N4d8AV/bBWAPuckrFgObUrUrecP+TT/W0vRfmwJHnlJroFG+e7BUU0CODbVIe1kwgiaCqCgf4gL5KmAknqWCmyQUZ8Ll0kTQVUWAKCHSlFNpQRL5YmXliGDS1KRNFNILUDuT3/VI4kCqDh6IVfjWB0MjQ1imP4PgoF7VM5koQQ2zqmya8E1CbJWcjO5rEigx0vRTY0TjZ8m51VJJ1SNVgGgWQlT+UULahqy1I0H8iH4DxISZ3+wzGqLRg2cHz/av10OL9rtUr/mTThaKpyyPhszxmwzntW0T2Gdhqc58lMAfgnfQL+TU+Xfcal3evRbGroHAs4ODuFjq8oOF8Jv8aPwrQ1C46AJDEpaJ5ChiQcnwpUI0lvbXoErjrjklz+nK8GK7789Yu2w9ZVl6v0sfRJWPv13Sr95qaHc+dnRQJuPfQ87Dv+fdH9V+L7xi8ZzuWf+P0NeOHIB7D5tI2w//JnwQneP7Yfbjv8vKOy1MpJBlsoyQFDs6iDRj1DQrzK8X0v00ueX8G74KUL7oUNXecUX2MeR89YCGfqK50XZuowKHTNfaAHGjKJoUHY0HUuvHjBPeAKIC8pAL8uLGmAB1yFa1f1wOPr+uGZPxyFoAvw6fSP8Mn0wZLXIsd/gKqAJiiZ5gFdMstgLmz7h9ffAfvMA/D1zGRV9xFBT0+9A40EcoUdWhepmw1sW+C9ix+rzo5AxlatRCNS6qjhI+ifv3rr10QkZRpbvhOwxnOmyq/xGrBn06PQd3DY8TMeQzWloxT2/PsF3PnzKFQL1+nZ/ZMvozsxl8uTq/H4ugFoBGzyq4WrSCJV+erkJPpArxecH15/O5J1KSwWdAkixqS7BOqVv/ehF70BHlxzrcqTfdq+9gZH936DJH8z80vJa/tPHoaqkJnXGnOVTcrHU1Nvw/VGD/h956q8lzv71A/NbxvXuiFDTDKT4+BsNNsFchWo69J/6BnVVVk0YH+NS8vUZ1CcvFJCPTiwufRw+oyVgC0/Pomd2WmoBQfnpuDR2Bh2Ve5zfM9Da2+E+87rK3ntVVTjkak94BjIi0+HqA40KjDeb+KQrVFruMTuxRcBPfm1nrNqJonw6tF90LvqMrh19RWOyq/UfOoohSvzOuUVkZlkb5pbw6ay2GgYJ6A+YWoq7p18CSbjf0FLgYOV6GNHKZkJldC6DUuGMiMFlfE5uv6GvqJiuTTGff5KHVfpz078hDGl01X6SPK/XJlP8Vm2JJIjOS2KQy5zIgm3HHoOXr7wAejmmY7m4fiR7LOOwZcnf86dXwjjxw+AYwiJ2sY+oaRihcKUQuc0kxaWkUXcAp4WvTS1OSc63vH+/6Bbryuu1Dagpn8uHUtcvXcjZXne+TEawl0GKHskyU5nkSNJEzKslhssQy3o4UKM2dkC5VIq16UZTg14WwKVicVPqRphXqeNjap5Op2MNK1yYiP5pwpISnKxCwuZbuymtARksNMihro2kX+6UJLUnByUpnSHskTLv4Qcmz/BtChGkpOmTlO7rBRhsOG1+ZeKA0koTTgsN6KWFnQS0HkkW1RqmnLZZqzr4/6I9PBgR0zHSau1JtHk1r09pS6XZYDWsOKN7W/EyaokBU127y9XpCxJJHZMotolLHBzhKAuqNUAtFhQLrhcfkFdSlwd3oXWflQtpmtHYL2YEKOJvvCuhYo5cq2VfdJ5sK1WKtHS+KSIJq4pbYfy4ajWCdRXlkInq11aPCII69OtyV4nxZ2JBrkFXPa2BVFZgqg+ThcsO9YfZcjxwdhcRpesjUpmVIxVsf6WUJWRoQcnGRGFYZU5C5aMe5BtxSBljZGKVbvjRM0xEe9HoWHQ+NCi7UviFLSdUEItdR9J9oWHoQbUtw0HxsYlZ7slrUchz9xNjV92Gw7qj7HF2oaDoILkqN8yJUaV0+mWyCZ1M8hJTFmj3Vz21EMQoYFbA4X8tETTNVsDWehF10mOjcZvMkUqqLFTm0xpTVbD+ZtMNZAcG03crkztazKMo6BbJC3JsG1WI1YeFG5XZjIJY9jPDDeaHBut2fiOBj8ZG1SEMebPkcWZPV8aFtz4jlwNaqVkduM7kGiM4f1mEpOPlhuOjIRBABinJQmbMSRjYNX9SAaNdefPvDDx60z1KxmNyf+GsdUoT0E0fl1rt1D8HxIOoyWwAoROAAAAAElFTkSuQmCC" alt="LINE logo"><!--?--> <!--?lit$2524576367$--><slot></slot> </span> </template></ldsg-avatar><p data-v-976baaf8="" slot="description" class="mdFormTxt01">LINEアプリが開かない場合は、[LINEアプリでログイン]を長押しして[LINEで開く]を選択し、もう一度ログインをお試しください。</p><a data-v-a5ac1047="" data-v-976baaf8="" type="submit" class="ldsm-box-button ldsm-box-button--solid ldsm-box-button--green ldsm-box-button--xl l-box-btn-a" href="intent://access.line.me/oauth2/v2.1/login?loginState=VbZMSH51EHSy50niOOopAl&amp;loginChannelId=1648148465&amp;returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fbot_prompt%3Dnormal%26scope%3Dopenid%2Bprofile%26response_type%3Dcode%26state%3DPtJoVGc9zx%26redirect_u#Intent;scheme=https;package=jp.naver.line.android;end" slot="action"><span data-v-a5ac1047="" class="ldsm-box-button__text">LINEアプリでログイン</span></a><button data-v-ad958ae9="" data-v-976baaf8="" class="ldsm-text-button ldsm-text-button--gray ldsm-text-button--md l-txt-btn" slot="action" style="--20e1a779: 400;"><span data-v-ad958ae9="" class="ldsm-text-button_text">メールアドレスでログインする</span></button></ldsg-bottom-sheet-content></div></div></body></html>
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://static.line-scdn.net/line_web_login/edge/dist/assets/main-DidSfuvZ.css
+
+@charset "utf-8";
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, textarea, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary, time, mark, audio, video { margin: 0px; padding: 0px; font-size: 100%; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section { display: block; }
+
+b, strong { font-weight: 700; }
+
+img { border: 0px; vertical-align: top; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+select, input, button { font-size: 100%; margin: 0px; vertical-align: baseline; }
+
+button, input { line-height: normal; }
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; }
+
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0px; }
+
+textarea { overflow: hidden auto; vertical-align: top; }
+
+html { overflow-y: scroll; }
+
+:focus { outline: 0px; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+em, cite { font-style: normal; }
+
+nav, ol, ul { list-style: none; }
+
+table, th, td, fieldset { border: none; }
+
+fieldset legend { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); margin: -1px; padding: 0px; border: 0px; }
+
+hr { display: none; }
+
+html { text-size-adjust: 100%; }
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] { appearance: button; cursor: pointer; }
+
+input, button, textarea { border: 0px; }
+
+:root { overflow-wrap: break-word; box-sizing: border-box; color-scheme: light dark; }
+
+:root:not(input):not(textarea) { -webkit-tap-highlight-color: transparent; }
+
+::before, ::after { box-sizing: inherit; text-decoration: inherit; vertical-align: inherit; }
+
+body { background-color: var(--ldsm-semantic-primary-background, #fff); line-height: 1.231; color: rgb(68, 68, 68); font-family: font-face-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Helvetica Neue", Helvetica, sans-serif; font-size: 13px; }
+
+a:link, a:visited { color: var(--ldsm-semantic-primary-link, #4d73ff); text-decoration: none; }
+
+a:hover, a:active, a:focus { color: var(--ldsm-semantic-primary-link, #4d73ff); text-decoration: underline; }
+
+html, body, #__layout { min-height: 100%; height: 100%; }
+
+@media (orientation: landscape) {
+  #__layout { padding-right: env(safe-area-inset-right); padding-left: env(safe-area-inset-left); }
+}
+
+.LyBody { display: flex; height: 100%; box-sizing: content-box; padding-bottom: env(safe-area-inset-bottom); }
+
+@media (min-width: 768px) {
+  .LyBody { margin: 0px auto; }
+}
+
+.LyWrap { -webkit-box-flex: 1; flex: 1 1 auto; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; width: 100%; min-width: 0px; min-height: 100%; }
+
+.LyFoot .lyFootInner { display: flex; -webkit-box-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; font-size: 10px; padding-top: 40px; }
+
+@media (min-width: 768px) {
+  .LyFoot .lyFootInner { display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; flex-direction: row; padding: 50px 30px 28px; font-size: 12px; }
+}
+
+@media (max-width: 320px) {
+  .LyFoot .lyFootInner { padding-top: 0px; }
+}
+
+.LyContents { -webkit-box-flex: 1; flex: 1 0 auto; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; width: 100%; }
+
+.LyContents .lyContentsInner { -webkit-box-flex: 1; flex: 1 0 auto; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; min-height: 100%; box-sizing: border-box; }
+
+.MdHide { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); margin: -1px; padding: 0px; border: 0px; }
+
+.MdNonDisp { display: none !important; }
+
+.MdBtn01 { appearance: none; box-sizing: border-box; border-radius: 5px; width: 100%; font-weight: 700; height: 60px; font-size: 16px; background-color: var(--ldsm-semantic-primary-fill, #06c755); text-decoration: none !important; color: var(--ldsm-semantic-on-primary-fill, #ffffff) !important; }
+
+.MdBtn01.ExDisabled { cursor: not-allowed; background-color: var(--ldsm-semantic-quinary-fill, #e8e8e8); }
+
+.MdBtn02 { appearance: none; box-sizing: border-box; border-radius: 5px; width: 100%; font-weight: 700; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; height: 50px; font-size: 14px; border: 1px solid var(--ldsm-semantic-primary-neutral-fill, #efefef); background-color: transparent; text-decoration: none !important; color: var(--ldsm-semantic-primary-sub-3-text, #111111) !important; }
+
+.MdBtn02.ExDisabled { cursor: not-allowed; background-color: rgb(222, 229, 236); }
+
+@media (min-width: 768px) {
+  .MdBtn02 { font-size: 14px; }
+}
+
+.MdLogo01 { height: 32px; margin: 49px 0px 35px; text-align: center; }
+
+.MdLogo01 .mdLogo01Img { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 89px; height: 32px; background-size: 89px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABACAMAAACJDt1IAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAHvUExURUdwTADCAAC/AAC+AAC9AAC/AADAAAD/AADEAAC+AAC/AAC/AAD/AAC/AADBAAC+AAC+AAC9AAC/AAC+AAC4AAC4AAC+AADAAAD/AADCAADMAADaAAC5AAC+AADEAAC4AAC/AADMAAC/AAC/AADAAAC+AAC8AAC/AAC4AAC+AAC+AAC+AAC6AADAAAC+AAC/AAC/AADGAAC+AAC+AADQAAC+AAC4AAC+AAC+AAC+AAC+AAC/AADEAADBAAC+AAC+AAC4AADFAAC/AADFAADMAAC/AAC/AAC+AAC+AAC/AAC/AAC9AAC/AAC/AAC+AAC+AAC+AAC/AAC+AAC7AAC/AAC9AAC+AAC+AADAAADGAADIAAC6AADJAAC+AAC/AAC7AAC+AADDAAC9AAC8AADEAAC/AAC9AADAAAC+AAC+AAC4AAC/AAC+AAC8AAC+AAC+AADBAAC/AADGAADBAAC9AAC+AAC+AAC/AAC+AADAAAC/AADAAAC+AAC+AAC+AAC+AADUAAC/AAC9AADDAAC8AAC/AAC/AAC/AAC+AADCAAC8AAC+AAC+AAC/AAC/AAC/AAC+AAC+AAC+AAC9AADBAAC+AAC/AAC5AADBAAC9AAC/AAC8AAC+AAC+AAC+AADCAAC+AAC/AAC+AAC/AAC+AFpxpLIAAACkdFJOUwAqEG7DvCkBGmdlRAKJRovknyAz+/79JQMmCgfn/CPrWQUMFEG96mD2xoq28lLCwHQJ4PEL9fOd5eGZSA1Cufj6FigfD304mp5kaZsEsNxrW5T57oinwdlaGw7jE9Wk30srv9cnLNZerZLvyG/Pfj8ZMBI6zmZqnIJReUnNytR3BpjiEea4gcSHFdNXzHwIqK7d0d4hjoULHbsYUGM3fzs7YY+Q97Mk9gAAAsBJREFUaN7V2vVTG1EQB/CFtjkKqYR4QhJIUrxIkQLFXeru7u7u7u4u+4eWobkj73EvueTu6O33x51d9pMbBpbhAACkREBr7IlI6mV76mlJMC6lz7/Gj5+6MRHPVacGb3CsWh7ARcVK+eatBqVcek487q1xyW2hihylHK5VyqkysbAzuXLbnp48kDzg8svlG8ll907h+LXkvutK+QFqi6sfoIuphNOTZzEDZXK5iilHNgmmA6xgq/xN4dFIxvFnxBZy0pNnMgOz1T8JrvepT+eybXkyWasYbaaR8SI9sqeDHBmLesiRsVMiR8bL9MiuM+TI2HqaHBmXGU/uNZmMRw0nx8wmr3YaSw49A7PJuHxzNuQCm3p6G8F8Mq7LhlyYUmA2GfPpkcv3kSPj/gA5Mg7TI+NKeuRmPzkyHguSI+OqzMgH5grinT4yLjToxmgzkLyA/SuKX3W40KCz6LNZT7nuKb/qSInF7+UZ4QZ+V6XVyfCE3+W+YnUytPHLInlWJ9c/5rfV+ixOBlsTv+6+1clQxq/zxK1Ohu38vruPrE6ObuAX3rtjcTKc6uI3PtRL9pr1CztBhhVTfjrrJDdFTX7KAAdTCwTkovnq2VITB9PJuTuyIf+Pe1khw2A3OTLU0SNLVeTIEGshR4YTIXJkOE6PbN9NjgwnS80jL54jyPl2PWRY4s6IPDRPPZWjjVPI4uwp0UOGtRmRxXnt007GvbrISyuMIWNfBmSnLjL0rTGGbJs+MlyiR4ZD9MjBs+TI4K0mR4aN9MhwgR45sI0cGXaVG0COZNA7kZeq/1CAF0y5WHTSjDBtrnqZ3KyV8RbgvcbWludqF86bqGzpSH6fsLVfeIY5mCtMKb/TyHg1fupI/niBhnz7oHz1n38ciQwPxCYtg7/lsuN7T4q3ckfH5Lahr5OvLEo/fuWnz8iXdqCYvwiylalbDor5AAAAAElFTkSuQmCC"); }
+
+.MdLogo01.mdLogo01P01 { height: 22px; margin: 50px 0px 30px; }
+
+.MdLogo01.mdLogo01P01 .mdLogo01Img { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 60px; height: 22px; background-size: 60px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAsCAMAAACZpYwBAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGDUExURUdwTADFAAC8AAD/AAC+AAC/AAC/AAC8AAC+AAC+AAC+AAC+AADMAADEAAC9AADAAAC+AAC/AAC/AAC/AAC/AAC7AADAAAC+AADBAADBAAD/AAC/AAC7AAC/AAC+AAC+AAC/AAC/AAD/AADGAAC+AADMAAC+AAC+AAC+AADaAAC4AAC+AAC/AAC+AAC4AAC+AAC/AAC9AAC+AAC+AAC+AADAAAC+AAC9AAC9AAC+AAC/AAC+AAC/AADBAAC8AAC8AADAAADAAAC/AAC/AAC+AAC+AAC+AADAAAC/AAC4AADMAAC2AAC+AADAAAC+AAC+AAC8AAC4AAC/AAC9AAC+AAC+AAC4AAC+AAC4AAC/AADUAAC/AADBAAC+AADQAAC+AAC/AAC+AAC/AAC+AAC+AAC4AAC/AAC/AAC+AADBAAC/AAC+AAC+AAC/AAC8AADJAAC8AADFAAC+AAC+AAC/AADGAADGAAC+AAC+AADFAAC/AAC9AADBAAC9AAC+AAC9AAC+AAB5sa8AAACAdFJOUwAWxwGafUzXe2b06QoNr1GubLzgwO4p+SFGA6Dbee25PBgCG/0Fh2t+B/NyVMr3/Azi8aKTJd1i0r4owgQyy+pKYoGF4eiZWgj+Dw7MNZbG0+sQeeyp+jf7MAZgHU8LWyxDUMFL73R1jkLE8PVYzxPmH3/kXBIJreUs1NZXw0dKExgJ/AAAAfFJREFUWMPF1mVzwkAQBuClVGmhjtbd3d3d3d3dXe6nl9leEggcBK7N7bd3drMPgckFADAbsMaAVTmJWFYa7XsYHR0+g2sO7Gzm0zxuYNSj0d1tI7SOGW4/7Rf0YOy00WzxmcymnTI7xl3CrAZ3+1sK7Qx4RhqYwpgpX12sGiyVO72Y59lwhrsdLYUIBhwjDURijJKvrtrxHkyQO3GYY9lwKhdMWkYEwfhTCYHJgSi4O1cQTLKNYcFN3DApDwuu54dtq8HhjGRVPTzxwyQmISic5ncvL0yGRMEkURSclS8IJq15gmCSKQpemgztOa77CAMukd+KVx7v15rQDpAWnjs2WS+UTS4dz2oTxHmsutQTBouy6vxWT/j6Xtl15tQRhtMCZdmdnjAUKcuqHf8Ll3jBhV3Kthvt8Cf3HUNjmZ+9KvgwRVXPr/wwrAeH//jIpDAsioLnBgTBkFMtCIY+UbBzmgvOSlKVy6oRBntdQHjBoipXoyfsW5VaYRgOCPv5sxQYTtcMQ31ocOqfweYmQTAsrwiCvRhd4bx9QTBspIcGf7HbtXj9hBRPMJZLcVB9IlTIF25jPmJvfnO3De/xjHpp/t1noh/j9zzJpd+ArdjnLCoapc+/GWPbLMu1NYOWcpqx5FyDsdDPZCl2tqRoZBbAD1dHRbX83UjLAAAAAElFTkSuQmCC"); }
+
+.MdLogo01.mdLogo01P02 { height: 26px; margin: 30px 0px 46px; }
+
+.MdLogo01.mdLogo01P02 .mdLogo01Img { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 73px; height: 26px; background-size: 73px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJIAAAA0CAMAAABW4JFPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGnUExURUdwTAbIVQbHVQbHVQjJVgbKVgrKWH//fwjIVgjKVQfHVQbIVQfIVQbJVwbHVQbHVQbHVQbHVf///wvMVQbHVQzMWQnPVT//fwbHVR/fXwbHVQbIVQjJVgbHVQfHVgfIVQfHVQfIVQfIVQfHVQbHVgbHVQjKVwbHVQbHVQfHVQbIVQfIVwbHVRLIWwbHVQbIVQbHVQbIVgbIVRfQXArJVQbHVTPMZgbHVQbIVgbHVQbHVQvQXAfIVQfIVgbHVQbHVVX/VQjKVwjIVQbHVQfHVwjIVwfIVQbHVQjHVgbHVgfHVQvHWAbKVQbHVQfIVQnLVQbIVQnJWAbHVQfHVgfHVQfHVhziVQbIVgjLVgbHVQfHVQbHVQbIVQbHVQrMWwbIVQfIVQbHVQfJVQbIVRHMVQbHVSrUVQbHVwfIVgbIVQbHVQbHVQrIVgfMVwbHVQbHVQbIVQbIVQbHVQfIVgjJVQbHVQnNWAfHVQfHVQbHVQbHVQbHVQbHVQbHVQ7UVQfJVgfHVQfIVQbHVQbHVRXUVQbMWQbHVQfHVQfKVgfJVwbHVQfHVQbHVTCTGbIAAACMdFJOUwB6t7lbTTECXj+JumxM8/z+9wEt8RQbBKII3t8+7IuNgSGQ13P9Ovr5aZlG4g7yce12nwsY9gXdmn3JFkKC7ucDHV3pID2HoViptC4nxdY2SzTvjqtqCX87wYrkzPUZqK3raJUP8AZJZ1S90C8jTsLDlsSIWncasK67+OGl+xJt2LHS9AwomGBEQ+BFyR/NywAAAjNJREFUWMPN2edXE0EQAPDBBAkod2mEFEokEJOACCgWFAsoCBYQLDRBUVCQYgMLICCooPNHy3t3Z25flmtsXma+3dzczO9LdvdlYS+GSjR8CIFR1A+phb5wpZqarlZT8vMn3G9qJLVAGtZST4NoGNF9iGWfMkaiW95s4SclVSFnU5d434zoRlUpqQCaRRR0Dy4jUqmusEhJHdd3usP5xq1771FSxaYkFEYKLpIj4cQsORLW0SPhEj1Sy01yJLxfSY6EPQJIsliSt/HopHdiSdh93gYpcSI3XJmQYBLOl1gnnTxklGASXqZHkqvIkXC8ghwJ+/3kSFhPj3R6gBwJo68skXrdnEjmh4SPjrB6j4kifU0xfdPOSc2iSGWbTF/fQuFPAmXwmem7tUuA9H2NaRwmQILkBtP5NwESrDCdd34SIPldTOsfkcKT4Mp1pvcvAiS42sA033ZCksSSIH7oJMukWsGkG6M2SGEPJ26DYBKEXlgn5fkkoJFg0EuOBDX0SBc6yJHg1Aw5EszRI8FLYaTqY5yYKrVPiry1RHrAm/d+FUxX0/ZJ2yS4JzlfvZfNSfjaPgm6nJNkC6RyByRoc0zCfJHOJciRIOAjR4I39EjQR4905mJhSR85q/DDlDPSH9OSgLKZ6s5B7tz7uDRvZzir66JuAndNx8WgscnkdB5X+7dq143f1rVLgMfXtH+UvkS4u1Wt9rN79v/Op1Myntf096CoxDB0A9SM3zjFRm4X03n/ABXLFGt+fmWaAAAAAElFTkSuQmCC"); }
+
+@media (max-width: 320px) {
+  .MdLogo01 { margin: 29px 0px 25px; }
+}
+
+.MdTtl01 { display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; position: relative; margin-bottom: 15px; }
+
+.MdMN04QrLogin .MdTtl01 .mdTtl01Inner { background-color: var(--ldsm-semantic-primary-background, #ffffff); }
+
+.mdLYR01Ul .MdTtl01 .mdTtl01Inner { background-color: var(--ldsm-semantic-popup-surface, #ffffff); }
+
+.MdTtl01::after { content: ""; width: 100%; height: 1px; background-color: var(--ldsm-semantic-quaternary-text, #949494); position: absolute; top: 50%; left: 0px; }
+
+.MdTtl01 .mdTtl01Inner { z-index: 1; position: relative; display: inline-block; padding: 0px 16px; color: var(--ldsm-semantic-quaternary-text, #949494); font-size: 12px; line-height: 16px; text-align: center; }
+
+@media (min-width: 768px) {
+  .MdTtl01 .mdTtl01Inner { font-size: 14px; }
+}
+
+@media (max-width: 320px) {
+  .MdTtl01 .mdTtl01Inner { width: 174px; }
+}
+
+.MdSubTtl01 { font-size: 24px; line-height: 24px; margin-bottom: 25px; color: var(--ldsm-semantic-primary-text, #111111); }
+
+.MdSubTtl01 .mdSubTtl01P01 { margin-top: 15px; font-size: 12px; line-height: 24px; color: var(--ldsm-semantic-primary-text, #111111); }
+
+.MdBox01 { -webkit-box-flex: 1; flex: 1 0 auto; box-sizing: border-box; }
+
+@media (min-width: 768px) {
+  .MdBox01 { display: flex; -webkit-box-align: center; align-items: center; margin: 0px auto; width: 500px !important; }
+  .MdBox01 .mdBox01Inner { -webkit-box-flex: 1; flex: 1 0 auto; border: 1px solid var(--ldsm-semantic-secondary-separator, #dfdfdf); border-radius: 16px; width: 500px !important; }
+}
+
+.MdIco01Refresh { background-color: transparent; padding: 0px; }
+
+.MdIco01Refresh .mdIco01RefreshTxt { font-size: 12px; color: var(--ldsm-semantic-secondary-text, #555555); text-decoration: none; }
+
+.MdIco01Refresh .mdIco01RefreshTxt::before { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 18px; height: 18px; background-size: 18px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFQUExURUdwTLzG0cLJ1r3J0r7CzL7F0r7I0r/M0r7I0r7CzMjI2sDJ0r7H08HI2L3Fzr7I08HK08DN077I07/J07/I0sDK1cbi4r/I0////8nJ1r3I0r/I1MTN17/M2L/I077J07jCzL7J0r7J1L7I0cXN1b/J0sTM077I07/I077I07/K077J0sXQ3LzH0r/J0r7I0sPS0sbU1MzM3b7J0L/I0r3I0rzG07jC0v///7/J0r7I08PJ1dra2r/J0r7J0tTU1L7F0rjI0r7I0r7I0b/I07/I0b7J0r/I0r7I0L3J07jI0rjIz7/f38DJ0r/J0////7/J1L/I077J0cDJ0sLO2r/P17/P373I0r7I0r/J0r/J0b7J07///77D0r/J09DQ577I077K07vI0L7I073I0czM/77I0r7I0rjF0sHK077J077IzL/J0r/J077C0L7I0hvHzXUAAABvdFJOUwDmJt752WYo/P0OVcYh4qkdKXpkbEkJpAET0lQaFI2G/r1f4B+JI2ORglhbFtOU5BESD9DIzsv6A4WHKwewbgb0+0utwMShiMWv9vcIUYECGHDxORUgEKczNJx7BPC0C+hv29G/Bczl6zqd+G2A7CBojAAAAAFLSURBVDjLtZRlc8JAEIahQBOgUBwKdXd3d3d3d3v+/7ceSaadyyQ005nul91597nLXm73XK5/tBYnEFVOIBqcQFQWBFLJxIiAaLZHTlZWMazTBjk84tuqi60ZxSeS/uWlybxrsmbKn0TuNKIV7q+1Zh4e4SKpn05tsynoHd5e9FBtNbREXGaunuHGiIOG38G3JUE5uD2X12XCsCEpaTgzV7AJaUnIwrEZ2gOfJHxCmRnahl1J8ELKDK3DmiRcg2KGQuCRhHvImaEgzEvCB1yaoVKIyTfn5S6jhwFDGlMhKi97ze7rQW+/7sdLYMK094HxB7oH0fyU+NiQYn3PPQNoUJHYB5vGq+gTOVdgdnFG+FFrpr0j37rTWgN74zZNVfPT5HOK3bQo7nxedS/EogXGrqhLQMO/TW9jWD9dYQvVOYBc9R4nL0/kj8/aF7ZzUFI3SudZAAAAAElFTkSuQmCC"); content: ""; vertical-align: top; margin-right: 6px; }
+
+.MdIco01Close { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 18px; height: 18px; background-size: 18px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkBAMAAAATLoWrAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAYUExURUdwTP///////////////////////////x1LVb4AAAAHdFJOUwBX/ONQ/UnPT8npAAAAX0lEQVQoz2NgGPog2QREOpshCZkXCTAwMKoXIwuVKzIwCJUjCzmVFwkwqperIAkBuYpC5SDdCCBUXhoO0oyqDE0RA4NoeXkgAyEhLBoxjcfiCCxOxeIhLN7GEjhDFQAAQHMZo9py75kAAAAASUVORK5CYII="); }
+
+.MdIco01Setting { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 18px; height: 16px; background-size: 18px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAMAAABNTyq8AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGSUExURUdwTGpqampqamlpaWdnZ2pqamtra2pqampqam1tbWxsbGpqampqampqamtra39/f3h4eGlpaWtra2tra2pqav///2pqamRkZGpqampqampqamxsbGpqampqampqam1tbW1tbWpqamhoaG1tbWpqamlpaWRkZGpqamtra2tra2pqampqampqamtra2tra2tra2RkZGpqanFxcX9/f2hoaGtra2pqanNzc2pqamhoaGtra39/f2pqampqamlpaW5ubqqqqmtra2pqampqam5ubmpqamtra21tbWtra25ubmtra2pqampqamtra2pqampqampqamtra39/f2tra21tbWtra3d3d2pqamxsbGdnZ2pqamtra2pqamtra2tra2pqamxsbGxsbGRkZGpqamtra2tra2RkZGpqam9vb2pqampqampqamtra2lpaWpqamtra2xsbGxsbHFxcWxsbGtra2ZmZmtra2pqampqamlpaW9vb2pqamhoaGtra2tra29vb25ubmxsbGtra2pqam1tbWpqahcgif0AAACFdFJOUwDy1bPqPH7M5hVCmbLidAIRxNstrwEM+/m+/iHa9+sHI43eOt+s+JS3mmCXvaQypv3wCQjZZK0Lx+MaBnof3BcDd7tlHraRDoUz1Ib8q+3JVKkEhxyCD6NS75Cw3ZhhcVBq8WeKjvbTJ4sYzoyPYsM7XhtLteUT+vXLIFnNnc8pJS+D0TEZ+jOpAAABhUlEQVQ4y8XU5XPCMBQA8HSVFSjFhowNBgzmgmzM3d3d3d1d3/+9pmUQuh23u30gH5K89nfp60tahNLZLOWZUpsxpkSXLsk8BgtTIlMG7nOz/4DMMqqvUd8Ne02NGsPynIKGSwz5teBrUqFi8IOjGRZXcTDqhzqgvPb2ZDMLlUgbcIsNSpgnunUtaAA6SJMT8k1LgzVxpRXTfqqTQOUFFbGZhhMEThML+ga7CTQUnBiXJ1oGeB4YrRxE5p2lBDIWwYgHr8PoWYRYPYPXsuzAQg+ZlHUFdNLAAYsjFjipz7JXqwslI5pXAp7GiEG/IuEbCRiFwsnkPApL6se9w8crae55p+5anTiqdlGfBArcnqKfJUBvVJRAlTeJYtJ0vJgvjidyW6gqm1SYzfiJNGwcG1Dk2bVLJvUAWbY9O/AXSph/AHBnKYW15NfbgnUoOruCIxwUOilR3AYYU5XJ2lZWIm2PWTl0VftSClO9tn+c8RMFlaVExQ783RUcpkSTNEZdnrT+Ib4Apkg8yuvXRqYAAAAASUVORK5CYII="); }
+
+.MdIco01AddFriend { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 18px; height: 18px; background-size: 18px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFcUExURUdwTGtra21tbWtra2tra2xsbGpqan9/f2pqam1tbWpqampqampqampqampqampqampqampqamtra2RkZGlpaWtra2pqamtra2tra5mZmWdnZ25ubmpqampqam1tbX9/f2pqan9/f2pqamtra2pqam5ubmRkZGxsbGtra2xsbGtra2pqamtra2pqamxsbGpqam9vb2tra2pqamdnZ39/f25ubmxsbGRkZGpqamtra2tra2tra2pqampqampqamlpaXFxcWpqav///2pqamtra2tra2tra2pqampqamtra2tra2pqamhoaHNzc2lpaWpqamtra2pqampqampqam1tbWxsbGpqampqamlpaWtra2lpaWpqampqamtra2pqampqamlpaWhoaGpqamRkZHFxcWlpaWtra2pqamlpaWpqamlpaW1tbWlpaW1tbW1tbWpqamlpaW5ubn9/f2pqagaU0OkAAABzdFJOUwDgP36RXDwClwfW0f6Z9R/K08jsxoV1prwF7zOSfxUIDASjE/wl/TsaQqTYjkg9lCer1eoGHij7fefzYXpZwKwJ6QEwRbC3Xdo0TjfeC7Pmd2XtkCMvYLanlkH5c21U35vNqPYb3F9D6Fu/Dq5NQaq4NQqdtZSrAAABMUlEQVQ4y82U51PCQBDFLxKMAUSaIEgHe++99957713U9//PmIQ5lQub8SPvw+67nd8kN/tmjrESV3hhfsjd0lFrxSw5EFlv9rhc0WmSqfL7t1S9T2CUhKqxkjeKb0qhIN8id0HMUNBqDXdjKCOYuoE5bkdgIyAbGrjt6+4hoFY0cjsZkAiord7LbRqD9Apm8+b25oDcU3xbShrmOmsRzDk29ZbJpq3CuzA29YYnK8h7pdcHxGgkfokdvaeeEU1oPfmZERHlLIJQwrAvr7jTcimHXWD2PHD+Bnb/+F4EOj1xB1N/zl/MDB0hsGu6owAt4zBcCMRkWc7hQ6syH41vrAlfkfAjPhoOib/qVVX1GPtaVfkIlcX2Jtzpf5CjQlSnCXLCpCbG+rvaCzMxqdRfJPYNwpw4q+EAm58AAAAASUVORK5CYII="); }
+
+.MdFormGroup01 { padding: 0px 25px; }
+
+.MdFormGroup01 .mdFormGroup01Btn { margin-top: 35px; }
+
+@media (min-width: 768px) {
+  .MdFormGroup01 { padding: 0px 62px; }
+}
+
+.MdInputTxt01 { position: relative; box-sizing: border-box; height: 52px; margin-bottom: 24px; }
+
+.MdInputTxt01::after { content: ""; position: absolute; bottom: 0px; left: 0px; z-index: 1; width: 100%; height: 2px; border-bottom: 2px solid var(--ldsm-semantic-secondary-separator, #dfdfdf); }
+
+.MdInputTxt01 > input { appearance: none; position: absolute; bottom: 7px; width: 100%; height: 25px; line-height: 16px; padding: 0px; box-sizing: border-box; border: none; background-color: transparent; color: var(--ldsm-semantic-primary-text, #ffffff); font-size: 16px !important; }
+
+.MdInputTxt01 > input::-webkit-input-placeholder { color: var(--ldsm-semantic-placeholder-text, #dfdfdf); font-weight: 700; }
+
+.MdInputTxt01 > input::placeholder { color: var(--ldsm-semantic-placeholder-text, #dfdfdf); font-weight: 700; }
+
+.MdInputTxt01 .mdInputTxt01Label { display: none; color: var(--ldsm-semantic-placeholder-text, #dfdfdf); font-size: 12px; }
+
+.MdInputTxt01.ExSelected::after { border-bottom: 2px solid var(--ldsm-semantic-primary-fill, #06c755); }
+
+.MdInputTxt01.ExSelected .mdInputTxt01Label { display: inherit; color: var(--ldsm-semantic-primary-fill, #06c755); }
+
+.MdInputTxt01.ExError::after { border-bottom: 2px solid var(--ldsm-semantic-prominent-fill, #ff334b); }
+
+.MdInputTxt01.ExError .mdInputTxt01Label { display: inherit; color: var(--ldsm-semantic-prominent-text, #ff334b); }
+
+.MdInputTxt01.ExFocusOut .mdInputTxt01Label { display: inherit; }
+
+.MdFormError01 { margin: 25px 0px 16px; text-align: center; }
+
+.MdFormError01 .mdFormErrorTxt01 { color: var(--ldsm-semantic-prominent-text, #ff334b); font-size: 12px; }
+
+@media (min-width: 768px) {
+  .MdFormError01 { margin: 20px 0px 0px; }
+}
+
+.MdGFT01Copy { -webkit-box-ordinal-group: 2; order: 2; margin: 0px 30px 30px; line-height: 23px; color: var(--ldsm-semantic-quaternary-sub-text, #bec8d2); font-size: 12px; }
+
+.MdGFT01Copy b { font-weight: 400; }
+
+@media (min-width: 768px) {
+  .MdGFT01Copy { -webkit-box-ordinal-group: 1; order: 1; -webkit-box-flex: 0; flex: 0 0 auto; margin: 0px; }
+}
+
+.MdGFT02Link { -webkit-box-ordinal-group: 1; order: 1; width: 100%; font-size: 12px; line-height: 23px; }
+
+.MdGFT02Link .mdGFT02Ul { margin-bottom: 15px; text-align: center; }
+
+.MdGFT02Link .mdGFT02Ul li { display: inline-block; margin: 0px 11px; }
+
+.MdGFT02Link .mdGFT02Ul a { color: var(--ldsm-semantic-quaternary-sub-text, #6c7985); }
+
+@media (min-width: 768px) {
+  .MdGFT02Link { -webkit-box-ordinal-group: 2; order: 2; -webkit-box-flex: 1; flex: 1 1 auto; }
+  .MdGFT02Link .mdGFT02Ul { margin-bottom: 0px; float: right; }
+  .MdGFT02Link .mdGFT02Ul li { margin: 0px 11px; }
+  .MdGFT02Link .mdGFT02Ul li:first-child { margin-left: 0px; }
+  .MdGFT02Link .mdGFT02Ul li:last-child { margin-right: 0px; }
+}
+
+.MdLYR01Layer { position: fixed; top: 0px; left: 0px; z-index: 100; width: 100%; height: 100%; }
+
+.MdLYR01Layer .mdLYR01Overlay { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background-color: var(--ldsm-palette-line-dim-70, rgba(0, 0, 0, .7)); }
+
+.MdLYR01Layer .mdLYR01Inner { display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; transform: translate(50%, 50%); position: absolute; bottom: 50%; right: 50%; width: calc(100% - env(safe-area-inset-right) - env(safe-area-inset-left) - 25px); max-height: calc(100% - 100px); overflow: hidden; box-sizing: border-box; background-color: var(--ldsm-semantic-popup-surface, #ffffff); border-radius: 3px; }
+
+@media (min-width: 768px) {
+  .MdLYR01Layer .mdLYR01Inner { max-width: 500px; }
+}
+
+.MdLYR01Layer .mdLYR01Body { -webkit-box-flex: 1; flex: 1 1 auto; overflow-y: auto; }
+
+.MdLYR01Layer .mdLYR01Head { position: relative; padding: 23px 65px 23px 17px; background-color: var(--ldsm-semantic-secondary-background, #fcfcfc); border-radius: 3px 3px 0px 0px; }
+
+.MdLYR01Layer .mdLYR01Ttl01 { font-size: 16px; font-weight: 700; line-height: 1.5; color: var(--ldsm-semantic-primary-text, #111111); }
+
+.MdLYR01Layer .mdLYR01Close { position: absolute; top: calc(50% - 25px); right: 0px; width: 50px; height: 50px; background-color: transparent; }
+
+.MdLYR01Layer .mdLYR01CloseIco { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 18px; height: 18px; background-size: 18px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkBAMAAAATLoWrAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAYUExURUdwTGZmZmZmZmZmZl9fX2ZmZmhoaGZmZhlsrWAAAAAHdFJOUwBX/OP9UEkFRsV+AAAAdklEQVQoz2NgGAiQbApjBZtBGeZFAhAGo3oxTKhcEcIQKocJBZVDlDGql6sywNRDlAmVw0yAsWEySMqQFUF4KIogylAVgZSVuKMoAitDU8TAIFJe7shASAiLRkzjsTgC06lYPITpbSyBgyUIsQQ0lujAEmn0BQBp1if79FkxIAAAAABJRU5ErkJggg=="); }
+
+.MdLYR01Layer .mdLYR01Content { padding: 40px 25px; text-align: center; }
+
+.MdLYR01Layer .mdLYR01Txt01 { padding: 0px 0px 40px; line-height: 24px; color: var(--ldsm-semantic-secondary-text, #555555); }
+
+.MdLYR01Layer .mdLYR01Ul li { margin-bottom: 40px; }
+
+.MdLYR01Layer .mdLYR01Ul li:last-child { margin-bottom: 0px; }
+
+.MdLYR01Layer .MdIco01Setting { margin: 0px 5px; vertical-align: text-bottom; }
+
+.MdLYR01Layer .mdLYR02QrCode { padding: 50px 56px; }
+
+.MdLYR01Layer .mdLYR02Txt01 { padding: 0px 0px 20px; text-align: center; font-size: 14px; line-height: 24px; color: var(--ldsm-semantic-secondary-text, #555555); }
+
+.MdLYR01Layer .mdLYR02Box01 { display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border: 2px solid var(--ldsm-semantic-secondary-separator, #dfdfdf); box-sizing: border-box; }
+
+.MdLYR01Layer .mdLYR02Box01Ol { margin: 22px 27px; max-width: 100%; }
+
+.MdLYR01Layer .mdLYR02Box01Ol > li { padding-bottom: 10px; margin-left: 10px; color: var(--ldsm-semantic-tertiary-text, #777777); font-size: 14px; line-height: 16px; text-align: left; list-style-type: decimal; overflow-wrap: break-word; }
+
+.MdLYR01Layer .mdLYR02Box01Ol > li:last-child { padding-bottom: 0px; }
+
+.MdLYR01Layer .mdLYR02Box01Ol .MdIco01AddFriend { margin: 0px 5px; vertical-align: text-bottom; }
+
+@media (min-width: 768px) {
+  .MdLYR01Layer .mdLYR01Head { padding: 23px 65px 23px 25px; }
+  .MdLYR01Layer .mdLYR01Ttl01 { font-size: 20px; }
+  .MdLYR01Layer .mdLYR01Content { padding: 50px 62px; }
+}
+
+.MdMN01Banner { height: 52px; }
+
+.MdMN01Banner .mdMN01Txt01 { margin: 0px 140px 0px 16px; font-weight: 700; }
+
+.MdMN01Banner .mdMN01Txt01 span { font-weight: 700; letter-spacing: 0.2px; }
+
+.MdMN01Banner .mdMN01Txt01P01 { display: block; font-size: 15px; }
+
+.MdMN01Banner .mdMN01Btn { position: absolute; top: calc(50% - 14px); right: 36px; border: 1px solid rgba(255, 255, 255, 0.8); padding: 6px 13px; box-sizing: border-box; text-decoration: none; border-radius: 3px; color: inherit !important; }
+
+.MdMN01Banner .MdIco01Close { position: absolute; top: calc(50% - 9px); right: 8px; background-color: transparent; }
+
+.MdMN01Banner .mdMN01Inner { background-image: linear-gradient(90deg, rgb(89, 216, 109), rgb(68, 150, 200)); position: relative; width: 100%; min-height: 30px; padding: 10px 0px; color: rgb(255, 255, 255); font-size: 12px; }
+
+.MdMN02Captcha { margin-top: 26px; }
+
+.MdMN02Captcha .mdMN02Inner { display: flex; }
+
+.MdMN02Captcha .mdMN02CaptchaImg { -webkit-box-flex: 0; flex: 0 0 auto; width: 50%; max-width: 150px; height: 57px; border: 2px solid rgb(222, 229, 236); box-sizing: border-box; background-color: rgb(255, 255, 255); background-repeat: no-repeat; background-position: center center; text-align: center; margin-right: 13px; }
+
+.MdMN02Captcha img { width: 100%; }
+
+.MdMN02Captcha .MdInputTxt01 { -webkit-box-flex: 1; flex: 1 1 auto; width: 100%; margin: 0px; }
+
+.MdMN02Captcha .MdIco01Refresh { margin-top: 9px; }
+
+@media (max-width: 320px) {
+  .MdMN02Captcha .mdMN02CaptchaImg { height: auto; }
+}
+
+.MdMN03Etc { margin: 24px 25px 35px; text-align: center; }
+
+.MdMN03Etc .mdMN03EtcLink01 { color: var(--ldsm-semantic-primary-link, #4d73ff); font-size: 12px; line-height: 13px; background-color: transparent; }
+
+.MdMN03Etc .mdMN03EtcLink01:hover { text-decoration: underline; }
+
+@media (min-width: 768px) {
+  .MdMN03Etc { margin: 24px 62px 50px; }
+}
+
+.MdMN04QrLogin { margin: 20px 25px; }
+
+@media (min-width: 768px) {
+  .MdMN04QrLogin { margin: 40px 62px; }
+}
+
+.MdMN05QrCode { margin: 0px auto; padding: 0px 62px; text-align: center; box-sizing: border-box; }
+
+.MdMN05QrCode .mdMN05Img01 { margin: 0px 0px 20px; }
+
+.MdMN05QrCode .mdMN05Img01Box { width: 150px; height: 150px; margin: 0px auto 20px; background-color: rgb(255, 255, 255); }
+
+.MdMN05QrCode .mdMN05Img01Box > img { width: 150px; height: 150px; }
+
+.MdMN05QrCode .MdIco01Refresh { display: block; margin: 0px auto; }
+
+.MdMN05QrCode .mdIco01RefreshTxt { font-size: 13px; }
+
+.MdMN05QrCode .mdMN05Txt { font-size: 14px; line-height: 24px; color: var(--ldsm-semantic-tertiary-text, #777777); }
+
+.MdMN05QrCode .mdMN05Btn { margin: 40px 0px 50px; }
+
+.MdMN05QrCode .mdMN05Btn + .MdMN03Etc { margin-top: -10px; }
+
+.MdMN06DigitCode { margin: 0px auto 50px; padding: 0px 62px; text-align: center; box-sizing: border-box; }
+
+.MdMN06DigitCode .mdMN06Txt { margin-bottom: 40px; font-size: 14px; line-height: 24px; color: var(--ldsm-semantic-tertiary-text, #777777); }
+
+.MdMN06DigitCode .mdMN06CodeBox { display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border: 2px solid var(--ldsm-semantic-secondary-separator, #dfdfdf); box-sizing: border-box; max-width: 303px; padding: 34px 0px; margin: 35px auto; text-align: center; }
+
+.MdMN06DigitCode .mdMN06Number { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: var(--ldsm-semantic-branding-text, #06c755); font-size: 51px; font-weight: 700; line-height: 38px; }
+
+.MdMN06DigitCode .mdMN06Desc { margin-top: 15px; font-size: 16px; font-weight: 700; letter-spacing: 2px; line-height: 16px; color: var(--ldsm-semantic-secondary-text, #555555); }
+
+.MdMN06DigitCode .mdMN06Desc time { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.MdMN06DigitCode .mdMN03EtcLink01 { font-size: 14px; }
+
+.MdMN07UserInfo { margin: 0px auto; padding: 0px 25px; text-align: center; box-sizing: border-box; }
+
+.MdMN07UserInfo .mdMN07Img { margin: 50px 0px 15px; }
+
+.MdMN07UserInfo .mdMN07Img > img { width: 100px; height: 100px; border-radius: 100%; }
+
+.MdMN07UserInfo .mdMN07Txt { font-size: 12px; line-height: 13px; }
+
+.MdMN07UserInfo .mdMN07Name { font-size: 14px; font-weight: 700; margin-top: 10px; }
+
+.MdMN07UserInfo .mdMN07Btn { margin-top: 35px; }
+
+.MdMN07UserInfo .MdMN03Etc { margin: 25px 0px 40px; }
+
+.MdMN07UserInfo .mdMN03EtcLink01 { font-size: 14px; }
+
+@media (min-width: 768px) {
+  .MdMN07UserInfo { padding: 0px 62px; }
+  .MdMN07UserInfo .MdMN03Etc { margin: 25px 0px 50px; }
+}
+
+.MdMN08Error { flex: 1 0 auto; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; background-color: rgb(217, 225, 233); }
+
+.MdMN08Error .mdMN08ErrorTxt { color: rgb(108, 121, 133); font-size: 24px; font-weight: 700; }
+
+.grecaptcha-badge { display: none !important; }
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://static.line-scdn.net/line_web_login/edge/dist/assets/index-86w1XHkq.css
+
+@charset "utf-8";
+
+.fade-enter-active[data-v-f67a0df5], .fade-leave-active[data-v-f67a0df5] { transition-duration: 0.2s; transition-property: opacity; transition-timing-function: cubic-bezier(0.55, 0, 0.1, 1); }
+
+.fade-enter-from[data-v-f67a0df5], .fade-leave-to[data-v-f67a0df5] { opacity: 0; }
+
+input[data-v-f68c6b6d]:-webkit-autofill { animation-name: onAutoFillStart-f68c6b6d; }
+
+@keyframes onAutoFillStart-f68c6b6d { 
+}
+
+input[data-v-5466084b]:-webkit-autofill { animation-name: onAutoFillStart-5466084b; }
+
+@keyframes onAutoFillStart-5466084b { 
+}
+
+.ldsm-box-button[data-v-a5ac1047] { box-sizing: border-box; display: flex; flex-direction: row; justify-content: center; align-items: center; border-radius: 5px; text-decoration: none; user-select: none; }
+
+.ldsm-box-button[data-v-a5ac1047]:disabled { cursor: default; }
+
+.ldsm-box-button--solid.ldsm-box-button--green[data-v-a5ac1047] { color: var(--ldsm-semantic-on-primary-fill); background-color: var(--ldsm-semantic-primary-fill); }
+
+.ldsm-box-button--solid.ldsm-box-button--green[data-v-a5ac1047]:hover:not(:disabled) { color: var(--ldsm-semantic-on-primary-fill-hover-color); background-color: var(--ldsm-semantic-primary-fill-hover-color); }
+
+.ldsm-box-button--solid.ldsm-box-button--green[data-v-a5ac1047]:active:not(:disabled) { color: var(--ldsm-semantic-on-primary-fill-highlighted-color); background-color: var(--ldsm-semantic-primary-fill-highlighted-color); }
+
+.ldsm-box-button--solid.ldsm-box-button--red[data-v-a5ac1047] { color: var(--ldsm-semantic-on-prominent-fill); background-color: var(--ldsm-semantic-prominent-fill); }
+
+.ldsm-box-button--solid.ldsm-box-button--red[data-v-a5ac1047]:hover:not(:disabled) { color: var(--ldsm-semantic-on-prominent-fill-hover-color); background-color: var(--ldsm-semantic-prominent-fill-hover-color); }
+
+.ldsm-box-button--solid.ldsm-box-button--red[data-v-a5ac1047]:active:not(:disabled) { color: var(--ldsm-semantic-on-prominent-fill-highlighted-color); background-color: var(--ldsm-semantic-prominent-fill-highlighted-color); }
+
+.ldsm-box-button--solid[data-v-a5ac1047]:disabled { color: var(--ldsm-semantic-primary-alt-disabled); background-color: var(--ldsm-semantic-tertiary-sub-background); }
+
+.ldsm-box-button--outline[data-v-a5ac1047] { background-color: var(--ldsm-semantic-default-sub-2-neutral-fill); }
+
+.ldsm-box-button--outline[data-v-a5ac1047]:hover:not(:disabled) { background-color: var(--ldsm-semantic-default-sub-2-neutral-fill-hover-color); }
+
+.ldsm-box-button--outline[data-v-a5ac1047]:active:not(:disabled) { background-color: var(--ldsm-semantic-default-sub-2-neutral-fill-highlighted-color); }
+
+.ldsm-box-button--outline.ldsm-box-button--green[data-v-a5ac1047] { color: var(--ldsm-semantic-primary-fill); border: 1px solid var(--ldsm-semantic-primary-fill); }
+
+.ldsm-box-button--outline.ldsm-box-button--green[data-v-a5ac1047]:hover:not(:disabled) { color: var(--ldsm-semantic-primary-fill-hover-color); border: 1px solid var(--ldsm-semantic-primary-fill-hover-color); }
+
+.ldsm-box-button--outline.ldsm-box-button--green[data-v-a5ac1047]:active:not(:disabled) { color: var(--ldsm-semantic-primary-fill-highlighted-color); border: 1px solid var(--ldsm-semantic-primary-fill-highlighted-color); }
+
+.ldsm-box-button--outline.ldsm-box-button--red[data-v-a5ac1047] { color: var(--ldsm-semantic-prominent-fill); border: 1px solid var(--ldsm-semantic-prominent-fill); }
+
+.ldsm-box-button--outline.ldsm-box-button--red[data-v-a5ac1047]:hover:not(:disabled) { color: var(--ldsm-semantic-prominent-fill-hover-color); border: 1px solid var(--ldsm-semantic-prominent-fill-hover-color); }
+
+.ldsm-box-button--outline.ldsm-box-button--red[data-v-a5ac1047]:active:not(:disabled) { color: var(--ldsm-semantic-prominent-fill-highlighted-color); border: 1px solid var(--ldsm-semantic-prominent-fill-highlighted-color); }
+
+.ldsm-box-button--outline.ldsm-box-button--gray[data-v-a5ac1047] { color: var(--ldsm-semantic-primary-sub-3-text); border: 1px solid var(--ldsm-semantic-primary-neutral-fill); }
+
+.ldsm-box-button--outline.ldsm-box-button--gray[data-v-a5ac1047]:hover:not(:disabled) { color: var(--ldsm-semantic-primary-sub-3-text-hover-color); border: 1px solid var(--ldsm-semantic-primary-neutral-fill-hover-color); }
+
+.ldsm-box-button--outline.ldsm-box-button--gray[data-v-a5ac1047]:active:not(:disabled) { color: var(--ldsm-semantic-primary-sub-3-text-highlighted-color); border: 1px solid var(--ldsm-semantic-primary-neutral-fill-highlighted-color); }
+
+.ldsm-box-button--outline[data-v-a5ac1047]:disabled { color: var(--ldsm-semantic-secondary-alt-disabled); border: 1px solid var(--ldsm-semantic-primary-neutral-fill); }
+
+.ldsm-box-button--xs[data-v-a5ac1047] { height: 29px; min-width: 29px; padding: 8px 12px; }
+
+.ldsm-box-button--xs > .ldsm-box-button__text[data-v-a5ac1047] { font-size: 11px; line-height: 13px; }
+
+.ldsm-box-button--sm[data-v-a5ac1047] { height: 30px; min-width: 30px; padding: 8px 12px; }
+
+.ldsm-box-button--sm > .ldsm-box-button__text[data-v-a5ac1047] { font-size: 12px; line-height: 14px; }
+
+.ldsm-box-button--md[data-v-a5ac1047] { height: 37px; min-width: 37px; padding: 12px 24px; }
+
+.ldsm-box-button--md > .ldsm-box-button__text[data-v-a5ac1047] { font-size: 13px; line-height: 16px; }
+
+.ldsm-box-button--lg[data-v-a5ac1047] { height: 44px; min-width: 44px; padding: 14px 24px; }
+
+.ldsm-box-button--lg > .ldsm-box-button__text[data-v-a5ac1047] { font-weight: 700; font-size: 15px; line-height: 18px; }
+
+.ldsm-box-button--xl[data-v-a5ac1047] { height: 48px; min-height: 48px; padding: 16px 24px; }
+
+.ldsm-box-button--xl > .ldsm-box-button__text[data-v-a5ac1047] { font-weight: 700; font-size: 15px; line-height: 18px; }
+
+.ldsm-box-button__text[data-v-a5ac1047] { font-weight: 600; }
+
+.MdMN03Etc[data-v-976baaf8] { display: flex; flex-direction: column; }
+
+.mdMN03EtcLink01[data-v-976baaf8] { margin-bottom: 22px; }
+
+.mdMN03EtcLink01[data-v-976baaf8]:last-child { margin-bottom: 0px; }
+
+a[data-v-976baaf8] { }
+
+.mdFormErrorTxt01[data-v-976baaf8] { color: var(--ldsm-palette-line-red-600); font-size: 14px; }
+
+.mdFormTxt01[data-v-976baaf8] { font-size: 14px; }
+
+.l-box-btn-a[data-v-976baaf8] { margin-bottom: 4px; }
+
+.l-txt-btn[data-v-976baaf8] { height: 48px; }
+
+.recaptcha-notice-txt[data-v-976baaf8] { margin-top: 15px; font-size: 12px; color: var(--ldsm-semantic-secondary-text, #555555); }
+
+ldsg-avatar[data-v-976baaf8] { --ldsg-avatar-background-color: "transparent"; }
+
+ldsg-bottom-sheet-content[data-v-976baaf8] { --ldsg-overlay-content-background-color: var( --ldsm-semantic-primary-background, #ffffff ); }
+
+.fade-enter-active[data-v-29237d2b], .fade-leave-active[data-v-29237d2b] { transition-duration: 0.25s; transition-property: opacity; transition-timing-function: cubic-bezier(0.55, 0, 0.1, 1); }
+
+.fade-enter-from[data-v-29237d2b], .fade-leave-to[data-v-29237d2b] { opacity: 0; }
+
+.MdLYR01Layer .mdLYR02Box01Ol > li.ExIE { margin-left: 2em; }
+
+.fade-enter-active[data-v-8c673558], .fade-leave-active[data-v-8c673558] { transition-duration: 0.2s; transition-property: height, min-height, opacity; transition-timing-function: cubic-bezier(0.55, 0, 0.1, 1); overflow: hidden; }
+
+.fade-enter-from[data-v-8c673558], .fade-leave-to[data-v-8c673558] { height: 0px; min-height: 0px; opacity: 0; }
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://static.line-scdn.net/line_web_login/edge/dist/assets/lFooter01-1Nnu-4mf.css
+
+@charset "utf-8";
+
+.link-list.separator li { margin: 0px !important; }
+
+.link-list.separator li::before { content: "|"; color: var(--ldsm-semantic-quinary-alt-fill, #6c7985); padding: 0px 9px; }
+
+.link-list.separator li:first-child::before { content: ""; padding: 0px; }
+
+@media (max-width: 768px) {
+  .disable-mobile-padding { padding: 0px !important; }
+}
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://static.line-scdn.net/line_web_login/edge/dist/assets/ldsm-semantic-dark-mode-8-gBXRYH.css
+
+@charset "utf-8";
+
+:root { --ldsm-palette-line-white: #ffffff; --ldsm-palette-line-white-hover-color: #fcfcfc; --ldsm-palette-line-white-highlighted-color: #f5f5f5; --ldsm-palette-line-black: #000000; --ldsm-palette-line-black-hover-color: #404040; --ldsm-palette-line-black-highlighted-color: #737373; --ldsm-palette-line-green: #06c755; --ldsm-palette-line-green-hover-color: #05a648; --ldsm-palette-line-green-highlighted-color: #049440; --ldsm-palette-line-red-300: #fcc5cb; --ldsm-palette-line-red-300-hover-color: #c99da2; --ldsm-palette-line-red-300-highlighted-color: #a37f83; --ldsm-palette-line-red-400: #ff96a3; --ldsm-palette-line-red-400-hover-color: #cc7882; --ldsm-palette-line-red-400-highlighted-color: #a6626a; --ldsm-palette-line-red-500: #ff697a; --ldsm-palette-line-red-500-hover-color: #cc5462; --ldsm-palette-line-red-500-highlighted-color: #a6444f; --ldsm-palette-line-red-600: #ff334b; --ldsm-palette-line-red-600-hover-color: #cc293c; --ldsm-palette-line-red-600-highlighted-color: #a62131; --ldsm-palette-line-red-700: #e5172f; --ldsm-palette-line-red-700-hover-color: #b31225; --ldsm-palette-line-red-700-highlighted-color: #8c0e1d; --ldsm-palette-line-red-800: #c9162b; --ldsm-palette-line-red-800-hover-color: #a81324; --ldsm-palette-line-red-800-highlighted-color: #961120; --ldsm-palette-line-red-900: #85101e; --ldsm-palette-line-red-900-hover-color: #630c16; --ldsm-palette-line-red-900-highlighted-color: #520a12; --ldsm-palette-line-red-600p: #d44652; --ldsm-palette-line-red-600p-hover-color: #b33b45; --ldsm-palette-line-red-600p-highlighted-color: #a1353e; --ldsm-palette-line-red-500p: #eb6570; --ldsm-palette-line-red-500p-hover-color: #b84f58; --ldsm-palette-line-red-500p-highlighted-color: #913f45; --ldsm-palette-line-red-400p: #f68a94; --ldsm-palette-line-red-400p-hover-color: #c26d75; --ldsm-palette-line-red-400p-highlighted-color: #9c575e; --ldsm-palette-line-red-300p: #f2ced2; --ldsm-palette-line-red-300p-hover-color: #bfa3a6; --ldsm-palette-line-red-300p-highlighted-color: #998285; --ldsm-palette-line-gray-100: #fcfcfc; --ldsm-palette-line-gray-100-hover-color: #c9c9c9; --ldsm-palette-line-gray-100-highlighted-color: #a3a3a3; --ldsm-palette-line-gray-150: #f5f5f5; --ldsm-palette-line-gray-150-hover-color: #c2c2c2; --ldsm-palette-line-gray-150-highlighted-color: #9c9c9c; --ldsm-palette-line-gray-200: #efefef; --ldsm-palette-line-gray-200-hover-color: #bdbdbd; --ldsm-palette-line-gray-200-highlighted-color: #969696; --ldsm-palette-line-gray-250: #e8e8e8; --ldsm-palette-line-gray-250-hover-color: #b5b5b5; --ldsm-palette-line-gray-250-highlighted-color: #8f8f8f; --ldsm-palette-line-gray-300: #dfdfdf; --ldsm-palette-line-gray-300-hover-color: #ababab; --ldsm-palette-line-gray-300-highlighted-color: #858585; --ldsm-palette-line-gray-350: #c8c8c8; --ldsm-palette-line-gray-350-hover-color: #a6a6a6; --ldsm-palette-line-gray-350-highlighted-color: #949494; --ldsm-palette-line-gray-400: #b7b7b7; --ldsm-palette-line-gray-400-hover-color: #969696; --ldsm-palette-line-gray-400-highlighted-color: #858585; --ldsm-palette-line-gray-500: #949494; --ldsm-palette-line-gray-500-hover-color: #737373; --ldsm-palette-line-gray-500-highlighted-color: #616161; --ldsm-palette-line-gray-600: #777777; --ldsm-palette-line-gray-600-hover-color: #575757; --ldsm-palette-line-gray-600-highlighted-color: #454545; --ldsm-palette-line-gray-650: #616161; --ldsm-palette-line-gray-650-hover-color: #404040; --ldsm-palette-line-gray-650-highlighted-color: #2e2e2e; --ldsm-palette-line-gray-700: #555555; --ldsm-palette-line-gray-700-hover-color: #333333; --ldsm-palette-line-gray-700-highlighted-color: #212121; --ldsm-palette-line-gray-750: #3f3f3f; --ldsm-palette-line-gray-750-hover-color: #808080; --ldsm-palette-line-gray-750-highlighted-color: #b3b3b3; --ldsm-palette-line-gray-770: #383838; --ldsm-palette-line-gray-770-hover-color: #787878; --ldsm-palette-line-gray-770-highlighted-color: #ababab; --ldsm-palette-line-gray-800: #2a2a2a; --ldsm-palette-line-gray-800-hover-color: #696969; --ldsm-palette-line-gray-800-highlighted-color: #9c9c9c; --ldsm-palette-line-gray-850: #1f1f1f; --ldsm-palette-line-gray-850-hover-color: #5e5e5e; --ldsm-palette-line-gray-850-highlighted-color: #919191; --ldsm-palette-line-gray-870: #1a1a1a; --ldsm-palette-line-gray-870-hover-color: #595959; --ldsm-palette-line-gray-870-highlighted-color: #8c8c8c; --ldsm-palette-line-gray-880: #171717; --ldsm-palette-line-gray-880-hover-color: #575757; --ldsm-palette-line-gray-880-highlighted-color: #8a8a8a; --ldsm-palette-line-gray-900: #111111; --ldsm-palette-line-gray-900-hover-color: #525252; --ldsm-palette-line-gray-900-highlighted-color: #858585; --ldsm-palette-line-blue-300: #c2d2ff; --ldsm-palette-line-blue-300-hover-color: #9ba8cc; --ldsm-palette-line-blue-300-highlighted-color: #7e89a6; --ldsm-palette-line-blue-400: #96b1ff; --ldsm-palette-line-blue-400-hover-color: #788dcc; --ldsm-palette-line-blue-400-highlighted-color: #6273a6; --ldsm-palette-line-blue-500: #6388ff; --ldsm-palette-line-blue-500-hover-color: #506dcc; --ldsm-palette-line-blue-500-highlighted-color: #4158a6; --ldsm-palette-line-blue-600: #4d73ff; --ldsm-palette-line-blue-600-hover-color: #3d5ccc; --ldsm-palette-line-blue-600-highlighted-color: #324ba6; --ldsm-palette-line-blue-700: #2c53de; --ldsm-palette-line-blue-700-hover-color: #2240ab; --ldsm-palette-line-blue-700-highlighted-color: #1b3285; --ldsm-palette-line-blue-800: #2b49a1; --ldsm-palette-line-blue-800-hover-color: #223a80; --ldsm-palette-line-blue-800-highlighted-color: #1e326e; --ldsm-palette-line-blue-900: #263a70; --ldsm-palette-line-blue-900-hover-color: #1b294f; --ldsm-palette-line-blue-900-highlighted-color: #15203d; --ldsm-palette-line-blue-400d: #a0b5d9; --ldsm-palette-line-blue-400d-hover-color: #8899b8; --ldsm-palette-line-blue-400d-highlighted-color: #7b8aa6; --ldsm-palette-line-blue-500d: #8cabd8; --ldsm-palette-line-blue-500d-hover-color: #7791b8; --ldsm-palette-line-blue-500d-highlighted-color: #6c83a6; --ldsm-palette-line-blue-300p: #ccd3e5; --ldsm-palette-line-blue-300p-hover-color: #9fa4b3; --ldsm-palette-line-blue-300p-highlighted-color: #7d818c; --ldsm-palette-line-blue-400p: #9fb6ec; --ldsm-palette-line-blue-400p-hover-color: #7d8fba; --ldsm-palette-line-blue-400p-highlighted-color: #637294; --ldsm-palette-line-blue-500p: #658ee1; --ldsm-palette-line-blue-500p-hover-color: #4e6ead; --ldsm-palette-line-blue-500p-highlighted-color: #3d5687; --ldsm-palette-line-blue-600p: #4e73cc; --ldsm-palette-line-blue-600p-hover-color: #4161ab; --ldsm-palette-line-blue-600p-highlighted-color: #3a5799; --ldsm-palette-line-navy-500: #98a0b3; --ldsm-palette-line-navy-500-hover-color: #7c8291; --ldsm-palette-line-navy-500-highlighted-color: #6c7280; --ldsm-palette-line-navy-600: #707991; --ldsm-palette-line-navy-600-hover-color: #565d70; --ldsm-palette-line-navy-600-highlighted-color: #494e5e; --ldsm-palette-line-navy-700: #464f69; --ldsm-palette-line-navy-700-hover-color: #303647; --ldsm-palette-line-navy-700-highlighted-color: #242836; --ldsm-palette-line-navy-800: #323b54; --ldsm-palette-line-navy-800-hover-color: #1f2433; --ldsm-palette-line-navy-800-highlighted-color: #141721; --ldsm-palette-line-navy-900: #202a43; --ldsm-palette-line-navy-900-hover-color: #3e5282; --ldsm-palette-line-navy-900-highlighted-color: #5772b5; --ldsm-palette-line-lime-100: #9de693; --ldsm-palette-line-lime-100-hover-color: #7ab372; --ldsm-palette-line-lime-100-highlighted-color: #608c5a; --ldsm-palette-line-lime-200: #8fdf81; --ldsm-palette-line-lime-200-hover-color: #6eab63; --ldsm-palette-line-lime-200-highlighted-color: #55854d; --ldsm-palette-line-lime-300: #79d279; --ldsm-palette-line-lime-300-hover-color: #66b066; --ldsm-palette-line-lime-300-highlighted-color: #5c9e5c; --ldsm-palette-line-lime-400: #6de67b; --ldsm-palette-line-lime-400-hover-color: #54b35f; --ldsm-palette-line-lime-400-highlighted-color: #428c4b; --ldsm-palette-line-lime-500: #5bdd6a; --ldsm-palette-line-lime-500-hover-color: #46ab52; --ldsm-palette-line-lime-500-highlighted-color: #36853f; --ldsm-palette-line-lime-510: #58db67; --ldsm-palette-line-lime-510-hover-color: #4aba57; --ldsm-palette-line-lime-510-highlighted-color: #43a84f; --ldsm-palette-line-lime-580: #4cc353; --ldsm-palette-line-lime-580-hover-color: #3fa145; --ldsm-palette-line-lime-580-highlighted-color: #388f3d; --ldsm-palette-line-lime-600: #06c755; --ldsm-palette-line-lime-600-hover-color: #05a648; --ldsm-palette-line-lime-600-highlighted-color: #049440; --ldsm-palette-line-lime-700: #3d9e43; --ldsm-palette-line-lime-700-hover-color: #317d36; --ldsm-palette-line-lime-700-highlighted-color: #2a6b2e; --ldsm-palette-line-lime-750: #438643; --ldsm-palette-line-lime-750-hover-color: #336633; --ldsm-palette-line-lime-750-highlighted-color: #2a542a; --ldsm-palette-line-lime-800: #1e6e1e; --ldsm-palette-line-lime-800-hover-color: #154d15; --ldsm-palette-line-lime-800-highlighted-color: #103b10; --ldsm-palette-line-lime-900: #1f4d1f; --ldsm-palette-line-lime-900-hover-color: #388c38; --ldsm-palette-line-lime-900-highlighted-color: #4dbf4d; --ldsm-palette-line-yellow-300: #fdffe5; --ldsm-palette-line-yellow-300-hover-color: #caccb8; --ldsm-palette-line-yellow-300-highlighted-color: #a4a695; --ldsm-palette-line-yellow-400: #fbffbf; --ldsm-palette-line-yellow-400-hover-color: #c9cc99; --ldsm-palette-line-yellow-400-highlighted-color: #a3a67c; --ldsm-palette-line-yellow-500: #fdff78; --ldsm-palette-line-yellow-500-hover-color: #cacc60; --ldsm-palette-line-yellow-500-highlighted-color: #a4a64e; --ldsm-palette-line-yellow-600: #fffc33; --ldsm-palette-line-yellow-600-hover-color: #ccc929; --ldsm-palette-line-yellow-600-highlighted-color: #a6a421; --ldsm-palette-line-yellow-700: #fff200; --ldsm-palette-line-yellow-700-hover-color: #ccc200; --ldsm-palette-line-yellow-700-highlighted-color: #a69d00; --ldsm-palette-line-yellow-800: #ffe500; --ldsm-palette-line-yellow-800-hover-color: #ccb800; --ldsm-palette-line-yellow-800-highlighted-color: #a69500; --ldsm-palette-line-yellow-900: #ffd900; --ldsm-palette-line-yellow-900-hover-color: #ccad00; --ldsm-palette-line-yellow-900-highlighted-color: #a68d00; --ldsm-palette-line-yellow-600p: #ffdf6b; --ldsm-palette-line-yellow-600p-hover-color: #ccb256; --ldsm-palette-line-yellow-600p-highlighted-color: #a69146; --ldsm-palette-line-yellow-500p: #ffea80; --ldsm-palette-line-yellow-500p-hover-color: #ccbb66; --ldsm-palette-line-yellow-500p-highlighted-color: #a69853; --ldsm-palette-line-yellow-400p: #fff8ab; --ldsm-palette-line-yellow-400p-hover-color: #ccc689; --ldsm-palette-line-yellow-400p-highlighted-color: #a6a16f; --ldsm-palette-line-yellow-300p: #fcfad2; --ldsm-palette-line-yellow-300p-hover-color: #c9c8a7; --ldsm-palette-line-yellow-300p-highlighted-color: #a3a287; --ldsm-palette-line-amber-300: #fff9cc; --ldsm-palette-line-amber-300-hover-color: #ccc7a3; --ldsm-palette-line-amber-300-highlighted-color: #a6a285; --ldsm-palette-line-amber-400: #ffeb94; --ldsm-palette-line-amber-400-hover-color: #ccbc76; --ldsm-palette-line-amber-400-highlighted-color: #a69960; --ldsm-palette-line-amber-500: #ffd86b; --ldsm-palette-line-amber-500-hover-color: #ccac56; --ldsm-palette-line-amber-500-highlighted-color: #a68c46; --ldsm-palette-line-amber-600: #ffc53d; --ldsm-palette-line-amber-600-hover-color: #cc9d31; --ldsm-palette-line-amber-600-highlighted-color: #a68028; --ldsm-palette-line-amber-700: #fcb321; --ldsm-palette-line-amber-700-hover-color: #c98f1a; --ldsm-palette-line-amber-700-highlighted-color: #a37415; --ldsm-palette-line-amber-800: #fa9e1e; --ldsm-palette-line-amber-800-hover-color: #c77e18; --ldsm-palette-line-amber-800-highlighted-color: #a16613; --ldsm-palette-line-amber-900: #f77911; --ldsm-palette-line-amber-900-hover-color: #c4600e; --ldsm-palette-line-amber-900-highlighted-color: #9e4d0b; --ldsm-palette-line-amber-600p: #f7821b; --ldsm-palette-line-amber-600p-hover-color: #c46716; --ldsm-palette-line-amber-600p-highlighted-color: #9e5311; --ldsm-palette-line-amber-500p: #ffb55d; --ldsm-palette-line-amber-500p-hover-color: #cc9149; --ldsm-palette-line-amber-500p-highlighted-color: #a6763c; --ldsm-palette-line-amber-400p: #ffdd80; --ldsm-palette-line-amber-400p-hover-color: #ccb166; --ldsm-palette-line-amber-400p-highlighted-color: #a69053; --ldsm-palette-line-amber-300p: #ffe8c2; --ldsm-palette-line-amber-300p-hover-color: #ccb99b; --ldsm-palette-line-amber-300p-highlighted-color: #a6977e; --ldsm-palette-line-lightgreen-300: #93edbf; --ldsm-palette-line-lightgreen-300-hover-color: #73ba96; --ldsm-palette-line-lightgreen-300-highlighted-color: #5c9477; --ldsm-palette-line-lightgreen-400: #64e8a4; --ldsm-palette-line-lightgreen-400-hover-color: #4eb580; --ldsm-palette-line-lightgreen-400-highlighted-color: #3d8f65; --ldsm-palette-line-lightgreen-500: #35db80; --ldsm-palette-line-lightgreen-500-hover-color: #2dba6c; --ldsm-palette-line-lightgreen-500-highlighted-color: #28a862; --ldsm-palette-line-lightgreen-600: #15bd66; --ldsm-palette-line-lightgreen-600-hover-color: #119c54; --ldsm-palette-line-lightgreen-600-highlighted-color: #0f8a4a; --ldsm-palette-line-lightgreen-700: #18a352; --ldsm-palette-line-lightgreen-700-hover-color: #148242; --ldsm-palette-line-lightgreen-700-highlighted-color: #117039; --ldsm-palette-line-lightgreen-800: #187a41; --ldsm-palette-line-lightgreen-800-hover-color: #125930; --ldsm-palette-line-lightgreen-800-highlighted-color: #0e4726; --ldsm-palette-line-lightgreen-900: #16592d; --ldsm-palette-line-lightgreen-900-hover-color: #0e381d; --ldsm-palette-line-lightgreen-900-highlighted-color: #0a2614; --ldsm-palette-line-lightgreen-600p: #2a9c5b; --ldsm-palette-line-lightgreen-600p-hover-color: #217a48; --ldsm-palette-line-lightgreen-600p-highlighted-color: #1c693d; --ldsm-palette-line-lightgreen-500p: #4bb875; --ldsm-palette-line-lightgreen-500p-hover-color: #3e9660; --ldsm-palette-line-lightgreen-500p-highlighted-color: #368554; --ldsm-palette-line-lightgreen-400p: #85c79b; --ldsm-palette-line-lightgreen-400p-hover-color: #6fa681; --ldsm-palette-line-lightgreen-400p-highlighted-color: #639473; --ldsm-palette-line-lightgreen-300p: #bad9c5; --ldsm-palette-line-lightgreen-300p-hover-color: #9eb8a7; --ldsm-palette-line-lightgreen-300p-highlighted-color: #8fa697; --ldsm-palette-line-teal-300: #8eedd9; --ldsm-palette-line-teal-300-hover-color: #70baaa; --ldsm-palette-line-teal-300-highlighted-color: #599487; --ldsm-palette-line-teal-400: #5ce5c8; --ldsm-palette-line-teal-400-hover-color: #47b39b; --ldsm-palette-line-teal-400-highlighted-color: #388c7a; --ldsm-palette-line-teal-500: #20d6be; --ldsm-palette-line-teal-500-hover-color: #1bb5a1; --ldsm-palette-line-teal-500-highlighted-color: #18a391; --ldsm-palette-line-teal-600: #19bfa1; --ldsm-palette-line-teal-600-hover-color: #159e85; --ldsm-palette-line-teal-600-highlighted-color: #128c76; --ldsm-palette-line-teal-700: #14a37b; --ldsm-palette-line-teal-700-hover-color: #108262; --ldsm-palette-line-teal-700-highlighted-color: #0d7054; --ldsm-palette-line-teal-800: #137856; --ldsm-palette-line-teal-800-hover-color: #0e573e; --ldsm-palette-line-teal-800-highlighted-color: #0b4532; --ldsm-palette-line-teal-900: #145e4e; --ldsm-palette-line-teal-900-hover-color: #0d3d33; --ldsm-palette-line-teal-900-highlighted-color: #092b24; --ldsm-palette-line-teal-600p: #24967c; --ldsm-palette-line-teal-600p-hover-color: #1c7560; --ldsm-palette-line-teal-600p-highlighted-color: #186352; --ldsm-palette-line-teal-500p: #46b897; --ldsm-palette-line-teal-500p-hover-color: #39967c; --ldsm-palette-line-teal-500p-highlighted-color: #32856d; --ldsm-palette-line-teal-400p: #7cc9b0; --ldsm-palette-line-teal-400p-hover-color: #68a894; --ldsm-palette-line-teal-400p-highlighted-color: #5d9684; --ldsm-palette-line-teal-300p: #bad9cf; --ldsm-palette-line-teal-300p-hover-color: #9eb8af; --ldsm-palette-line-teal-300p-highlighted-color: #8fa69e; --ldsm-palette-line-cyan-300: #8ceded; --ldsm-palette-line-cyan-300-hover-color: #6ebaba; --ldsm-palette-line-cyan-300-highlighted-color: #579494; --ldsm-palette-line-cyan-400: #5be3de; --ldsm-palette-line-cyan-400-hover-color: #46b0ac; --ldsm-palette-line-cyan-400-highlighted-color: #378a87; --ldsm-palette-line-cyan-500: #26d1d1; --ldsm-palette-line-cyan-500-hover-color: #20b0b0; --ldsm-palette-line-cyan-500-highlighted-color: #1c9e9e; --ldsm-palette-line-cyan-600: #1cb8b8; --ldsm-palette-line-cyan-600-hover-color: #179696; --ldsm-palette-line-cyan-600-highlighted-color: #148585; --ldsm-palette-line-cyan-700: #10a1a1; --ldsm-palette-line-cyan-700-hover-color: #0d8080; --ldsm-palette-line-cyan-700-highlighted-color: #0b6e6e; --ldsm-palette-line-cyan-800: #107575; --ldsm-palette-line-cyan-800-hover-color: #0c5454; --ldsm-palette-line-cyan-800-highlighted-color: #094242; --ldsm-palette-line-cyan-900: #155c5c; --ldsm-palette-line-cyan-900-hover-color: #0d3b3b; --ldsm-palette-line-cyan-900-highlighted-color: #092929; --ldsm-palette-line-cyan-600p: #1f9399; --ldsm-palette-line-cyan-600p-hover-color: #187378; --ldsm-palette-line-cyan-600p-highlighted-color: #146266; --ldsm-palette-line-cyan-500p: #41b6b9; --ldsm-palette-line-cyan-500p-hover-color: #369699; --ldsm-palette-line-cyan-500p-highlighted-color: #2f8487; --ldsm-palette-line-cyan-400p: #7dcdcf; --ldsm-palette-line-cyan-400p-hover-color: #68acad; --ldsm-palette-line-cyan-400p-highlighted-color: #5d9b9c; --ldsm-palette-line-cyan-300p: #bdd9d9; --ldsm-palette-line-cyan-300p-hover-color: #a0b8b8; --ldsm-palette-line-cyan-300p-highlighted-color: #90a6a6; --ldsm-palette-line-lightblue-300: #90eafc; --ldsm-palette-line-lightblue-300-hover-color: #73bbc9; --ldsm-palette-line-lightblue-300-highlighted-color: #5d98a3; --ldsm-palette-line-lightblue-400: #60def7; --ldsm-palette-line-lightblue-400-hover-color: #4db0c4; --ldsm-palette-line-lightblue-400-highlighted-color: #3e8e9e; --ldsm-palette-line-lightblue-500: #11cdf2; --ldsm-palette-line-lightblue-500-hover-color: #0da2bf; --ldsm-palette-line-lightblue-500-highlighted-color: #0b8199; --ldsm-palette-line-lightblue-600: #00b8e5; --ldsm-palette-line-lightblue-600-hover-color: #008fb3; --ldsm-palette-line-lightblue-600-highlighted-color: #00708c; --ldsm-palette-line-lightblue-700: #0093c4; --ldsm-palette-line-lightblue-700-hover-color: #007aa3; --ldsm-palette-line-lightblue-700-highlighted-color: #006d91; --ldsm-palette-line-lightblue-800: #066a91; --ldsm-palette-line-lightblue-800-hover-color: #045270; --ldsm-palette-line-lightblue-800-highlighted-color: #04455e; --ldsm-palette-line-lightblue-900: #084f6b; --ldsm-palette-line-lightblue-900-hover-color: #05364a; --ldsm-palette-line-lightblue-900-highlighted-color: #042938; --ldsm-palette-line-lightblue-600p: #268cad; --ldsm-palette-line-lightblue-600p-hover-color: #1f718c; --ldsm-palette-line-lightblue-600p-highlighted-color: #1b637a; --ldsm-palette-line-lightblue-500p: #3fafc9; --ldsm-palette-line-lightblue-500p-hover-color: #3493a8; --ldsm-palette-line-lightblue-500p-highlighted-color: #2f8396; --ldsm-palette-line-lightblue-400p: #7fc6d6; --ldsm-palette-line-lightblue-400p-hover-color: #6ba7b5; --ldsm-palette-line-lightblue-400p-highlighted-color: #6097a3; --ldsm-palette-line-lightblue-300p: #c1d8de; --ldsm-palette-line-lightblue-300p-hover-color: #95a6ab; --ldsm-palette-line-lightblue-300p-highlighted-color: #738185; --ldsm-palette-line-skyblue-300: #abdcff; --ldsm-palette-line-skyblue-300-hover-color: #89b0cc; --ldsm-palette-line-skyblue-300-highlighted-color: #6f8fa6; --ldsm-palette-line-skyblue-400: #78cbff; --ldsm-palette-line-skyblue-400-hover-color: #60a3cc; --ldsm-palette-line-skyblue-400-highlighted-color: #4e84a6; --ldsm-palette-line-skyblue-500: #40b6ff; --ldsm-palette-line-skyblue-500-hover-color: #3391cc; --ldsm-palette-line-skyblue-500-highlighted-color: #2976a6; --ldsm-palette-line-skyblue-600: #1a9cff; --ldsm-palette-line-skyblue-600-hover-color: #147ccc; --ldsm-palette-line-skyblue-600-highlighted-color: #1165a6; --ldsm-palette-line-skyblue-700: #0279d4; --ldsm-palette-line-skyblue-700-hover-color: #0266b3; --ldsm-palette-line-skyblue-700-highlighted-color: #025ca1; --ldsm-palette-line-skyblue-800: #095796; --ldsm-palette-line-skyblue-800-hover-color: #074475; --ldsm-palette-line-skyblue-800-highlighted-color: #063963; --ldsm-palette-line-skyblue-900: #1c476b; --ldsm-palette-line-skyblue-900-hover-color: #13314a; --ldsm-palette-line-skyblue-900-highlighted-color: #0f2538; --ldsm-palette-line-skyblue-600p: #3f84c4; --ldsm-palette-line-skyblue-600p-hover-color: #346ea3; --ldsm-palette-line-skyblue-600p-highlighted-color: #2f6291; --ldsm-palette-line-skyblue-500p: #5ba2db; --ldsm-palette-line-skyblue-500p-hover-color: #4e8aba; --ldsm-palette-line-skyblue-500p-highlighted-color: #477ca8; --ldsm-palette-line-skyblue-400p: #8fbee3; --ldsm-palette-line-skyblue-400p-hover-color: #6f94b0; --ldsm-palette-line-skyblue-400p-highlighted-color: #57748a; --ldsm-palette-line-skyblue-300p: #c5d6e3; --ldsm-palette-line-skyblue-300p-hover-color: #99a6b0; --ldsm-palette-line-skyblue-300p-highlighted-color: #78828a; --ldsm-palette-line-indigo-300: #cacafc; --ldsm-palette-line-indigo-300-hover-color: #a1a1c9; --ldsm-palette-line-indigo-300-highlighted-color: #8383a3; --ldsm-palette-line-indigo-400: #a2a2fc; --ldsm-palette-line-indigo-400-hover-color: #8181c9; --ldsm-palette-line-indigo-400-highlighted-color: #6868a3; --ldsm-palette-line-indigo-500: #7979f7; --ldsm-palette-line-indigo-500-hover-color: #6060c4; --ldsm-palette-line-indigo-500-highlighted-color: #4d4d9e; --ldsm-palette-line-indigo-600: #5f5fed; --ldsm-palette-line-indigo-600-hover-color: #4a4aba; --ldsm-palette-line-indigo-600-highlighted-color: #3b3b94; --ldsm-palette-line-indigo-700: #4545d1; --ldsm-palette-line-indigo-700-hover-color: #3a3ab0; --ldsm-palette-line-indigo-700-highlighted-color: #34349e; --ldsm-palette-line-indigo-800: #3d389c; --ldsm-palette-line-indigo-800-hover-color: #302c7a; --ldsm-palette-line-indigo-800-highlighted-color: #292669; --ldsm-palette-line-indigo-900: #383878; --ldsm-palette-line-indigo-900-hover-color: #292957; --ldsm-palette-line-indigo-900-highlighted-color: #202045; --ldsm-palette-line-indigo-600p: #5f5fba; --ldsm-palette-line-indigo-600p-hover-color: #4e4e99; --ldsm-palette-line-indigo-600p-highlighted-color: #454587; --ldsm-palette-line-indigo-500p: #7979d9; --ldsm-palette-line-indigo-500p-hover-color: #6767b8; --ldsm-palette-line-indigo-500p-highlighted-color: #5d5da6; --ldsm-palette-line-indigo-400p: #a6a6ed; --ldsm-palette-line-indigo-400p-hover-color: #8282ba; --ldsm-palette-line-indigo-400p-highlighted-color: #686894; --ldsm-palette-line-indigo-300p: #cfcfe5; --ldsm-palette-line-indigo-300p-hover-color: #a1a1b3; --ldsm-palette-line-indigo-300p-highlighted-color: #7e7e8c; --ldsm-palette-line-deeppurple-300: #d4c4f5; --ldsm-palette-line-deeppurple-300-hover-color: #a89bc2; --ldsm-palette-line-deeppurple-300-highlighted-color: #877c9c; --ldsm-palette-line-deeppurple-400: #bd9ff5; --ldsm-palette-line-deeppurple-400-hover-color: #967ec2; --ldsm-palette-line-deeppurple-400-highlighted-color: #78659c; --ldsm-palette-line-deeppurple-500: #a17df5; --ldsm-palette-line-deeppurple-500-hover-color: #7f63c2; --ldsm-palette-line-deeppurple-500-highlighted-color: #664f9c; --ldsm-palette-line-deeppurple-600: #8556e3; --ldsm-palette-line-deeppurple-600-hover-color: #6743b0; --ldsm-palette-line-deeppurple-600-highlighted-color: #51348a; --ldsm-palette-line-deeppurple-700: #6b3cc9; --ldsm-palette-line-deeppurple-700-hover-color: #5a32a8; --ldsm-palette-line-deeppurple-700-highlighted-color: #502d96; --ldsm-palette-line-deeppurple-800: #532f99; --ldsm-palette-line-deeppurple-800-hover-color: #412578; --ldsm-palette-line-deeppurple-800-highlighted-color: #372066; --ldsm-palette-line-deeppurple-900: #47346b; --ldsm-palette-line-deeppurple-900-hover-color: #31244a; --ldsm-palette-line-deeppurple-900-highlighted-color: #261b38; --ldsm-palette-line-deeppurple-600p: #7956b0; --ldsm-palette-line-deeppurple-600p-hover-color: #62468f; --ldsm-palette-line-deeppurple-600p-highlighted-color: #563d7d; --ldsm-palette-line-deeppurple-500p: #9473d6; --ldsm-palette-line-deeppurple-500p-hover-color: #7e62b5; --ldsm-palette-line-deeppurple-500p-highlighted-color: #7158a3; --ldsm-palette-line-deeppurple-400p: #b59fe8; --ldsm-palette-line-deeppurple-400p-hover-color: #8e7db5; --ldsm-palette-line-deeppurple-400p-highlighted-color: #70638f; --ldsm-palette-line-deeppurple-300p: #d3cce5; --ldsm-palette-line-deeppurple-300p-hover-color: #a49fb3; --ldsm-palette-line-deeppurple-300p-highlighted-color: #817d8c; --ldsm-palette-line-purple-300: #edc8f7; --ldsm-palette-line-purple-300-hover-color: #bc9fc4; --ldsm-palette-line-purple-300-highlighted-color: #98809e; --ldsm-palette-line-purple-400: #dd9cf7; --ldsm-palette-line-purple-400-hover-color: #b07cc4; --ldsm-palette-line-purple-400-highlighted-color: #8e649e; --ldsm-palette-line-purple-500: #ce7af0; --ldsm-palette-line-purple-500-hover-color: #a360bd; --ldsm-palette-line-purple-500-highlighted-color: #824d96; --ldsm-palette-line-purple-600: #c355d9; --ldsm-palette-line-purple-600-hover-color: #a548b8; --ldsm-palette-line-purple-600-highlighted-color: #9541a6; --ldsm-palette-line-purple-700: #af36c7; --ldsm-palette-line-purple-700-hover-color: #922da6; --ldsm-palette-line-purple-700-highlighted-color: #822894; --ldsm-palette-line-purple-800: #762d85; --ldsm-palette-line-purple-800-hover-color: #592263; --ldsm-palette-line-purple-800-highlighted-color: #491c52; --ldsm-palette-line-purple-900: #562e5e; --ldsm-palette-line-purple-900-hover-color: #381e3d; --ldsm-palette-line-purple-900-highlighted-color: #28152b; --ldsm-palette-line-purple-600p: #81529e; --ldsm-palette-line-purple-600p-hover-color: #66417d; --ldsm-palette-line-purple-600p-highlighted-color: #57386b; --ldsm-palette-line-purple-500p: #a771c9; --ldsm-palette-line-purple-500p-hover-color: #8c5ea8; --ldsm-palette-line-purple-500p-highlighted-color: #7d5496; --ldsm-palette-line-purple-400p: #c89be0; --ldsm-palette-line-purple-400p-hover-color: #9b78ad; --ldsm-palette-line-purple-400p-highlighted-color: #785d87; --ldsm-palette-line-purple-300p: #dbcce3; --ldsm-palette-line-purple-300p-hover-color: #aa9eb0; --ldsm-palette-line-purple-300p-highlighted-color: #857c8a; --ldsm-palette-line-magenta-300: #fccae7; --ldsm-palette-line-magenta-300-hover-color: #c9a1b9; --ldsm-palette-line-magenta-300-highlighted-color: #a38396; --ldsm-palette-line-magenta-400: #ff9ccd; --ldsm-palette-line-magenta-400-hover-color: #cc7ca4; --ldsm-palette-line-magenta-400-highlighted-color: #a66585; --ldsm-palette-line-magenta-500: #ff70b0; --ldsm-palette-line-magenta-500-hover-color: #cc5a8d; --ldsm-palette-line-magenta-500-highlighted-color: #a64973; --ldsm-palette-line-magenta-600: #f74397; --ldsm-palette-line-magenta-600-hover-color: #c43578; --ldsm-palette-line-magenta-600-highlighted-color: #9e2b61; --ldsm-palette-line-magenta-700: #de2c7f; --ldsm-palette-line-magenta-700-hover-color: #ab2262; --ldsm-palette-line-magenta-700-highlighted-color: #851b4c; --ldsm-palette-line-magenta-800: #bf0659; --ldsm-palette-line-magenta-800-hover-color: #9e054a; --ldsm-palette-line-magenta-800-highlighted-color: #8c0441; --ldsm-palette-line-magenta-900: #8a0e46; --ldsm-palette-line-magenta-900-hover-color: #690a35; --ldsm-palette-line-magenta-900-highlighted-color: #57092c; --ldsm-palette-line-magenta-600p: #c74a82; --ldsm-palette-line-magenta-600p-hover-color: #a63d6c; --ldsm-palette-line-magenta-600p-highlighted-color: #943761; --ldsm-palette-line-magenta-500p: #e569a0; --ldsm-palette-line-magenta-500p-hover-color: #b3527d; --ldsm-palette-line-magenta-500p-highlighted-color: #8c4163; --ldsm-palette-line-magenta-400p: #ed91bc; --ldsm-palette-line-magenta-400p-hover-color: #ba7293; --ldsm-palette-line-magenta-400p-highlighted-color: #945a75; --ldsm-palette-line-magenta-300p: #ebccdd; --ldsm-palette-line-magenta-300p-hover-color: #b8a0ad; --ldsm-palette-line-magenta-300p-highlighted-color: #917e89; --ldsm-palette-line-orange-300: #ffcfbf; --ldsm-palette-line-orange-300-hover-color: #cca699; --ldsm-palette-line-orange-300-highlighted-color: #a6877c; --ldsm-palette-line-orange-400: #ffa182; --ldsm-palette-line-orange-400-hover-color: #cc8168; --ldsm-palette-line-orange-400-highlighted-color: #a66955; --ldsm-palette-line-orange-500: #ff875c; --ldsm-palette-line-orange-500-hover-color: #cc6c49; --ldsm-palette-line-orange-500-highlighted-color: #a6583c; --ldsm-palette-line-orange-600: #ff6f36; --ldsm-palette-line-orange-600-hover-color: #cc592b; --ldsm-palette-line-orange-600-highlighted-color: #a64823; --ldsm-palette-line-orange-700: #ff5e1f; --ldsm-palette-line-orange-700-hover-color: #cc4b18; --ldsm-palette-line-orange-700-highlighted-color: #a63d14; --ldsm-palette-line-orange-800: #f24500; --ldsm-palette-line-orange-800-hover-color: #bf3600; --ldsm-palette-line-orange-800-highlighted-color: #992b00; --ldsm-palette-line-orange-900: #c43100; --ldsm-palette-line-orange-900-hover-color: #a32900; --ldsm-palette-line-orange-900-highlighted-color: #912400; --ldsm-palette-line-orange-600p: #e35f42; --ldsm-palette-line-orange-600p-hover-color: #b04a33; --ldsm-palette-line-orange-600p-highlighted-color: #8a3a28; --ldsm-palette-line-orange-500p: #f5765d; --ldsm-palette-line-orange-500p-hover-color: #c25e4a; --ldsm-palette-line-orange-500p-highlighted-color: #9c4b3b; --ldsm-palette-line-orange-400p: #fa9e7f; --ldsm-palette-line-orange-400p-hover-color: #c77e65; --ldsm-palette-line-orange-400p-highlighted-color: #a16652; --ldsm-palette-line-orange-300p: #fad3c5; --ldsm-palette-line-orange-300p-hover-color: #c7a89d; --ldsm-palette-line-orange-300p-highlighted-color: #a1887f; --ldsm-palette-line-dim-30: rgba(0, 0, 0, .3); --ldsm-palette-line-dim-30-hover-color: #404040; --ldsm-palette-line-dim-30-highlighted-color: #737373; --ldsm-palette-line-dim-70: rgba(0, 0, 0, .7); --ldsm-palette-line-dim-70-hover-color: #404040; --ldsm-palette-line-dim-70-highlighted-color: #737373; --ldsm-palette-line-dim-85: rgba(0, 0, 0, .85); --ldsm-palette-line-dim-85-hover-color: #404040; --ldsm-palette-line-dim-85-highlighted-color: #737373; --ldsm-palette-yahoo-red: #ff0033; --ldsm-palette-yahoo-red-hover-color: #cc0029; --ldsm-palette-yahoo-red-highlighted-color: #a60021; --ldsm-palette-voom-purple: #5426fc; --ldsm-palette-voom-purple-hover-color: #431ec9; --ldsm-palette-voom-purple-highlighted-color: #3718a3; }
+
+:root { --ldsm-semantic-default-text: #000000; --ldsm-semantic-default-text-hover-color: #404040; --ldsm-semantic-default-text-highlighted-color: #737373; --ldsm-semantic-default-alt-text: #000000; --ldsm-semantic-default-alt-text-hover-color: #404040; --ldsm-semantic-default-alt-text-highlighted-color: #737373; --ldsm-semantic-primary-text: #111111; --ldsm-semantic-primary-text-hover-color: #525252; --ldsm-semantic-primary-text-highlighted-color: #858585; --ldsm-semantic-primary-alt-text: #111111; --ldsm-semantic-primary-alt-text-hover-color: #525252; --ldsm-semantic-primary-alt-text-highlighted-color: #858585; --ldsm-semantic-primary-sub-text: #111111; --ldsm-semantic-primary-sub-text-hover-color: #525252; --ldsm-semantic-primary-sub-text-highlighted-color: #858585; --ldsm-semantic-primary-sub-2-text: #111111; --ldsm-semantic-primary-sub-2-text-hover-color: #525252; --ldsm-semantic-primary-sub-2-text-highlighted-color: #858585; --ldsm-semantic-primary-sub-3-text: #111111; --ldsm-semantic-primary-sub-3-text-hover-color: #525252; --ldsm-semantic-primary-sub-3-text-highlighted-color: #858585; --ldsm-semantic-primary-neutral-text: #111111; --ldsm-semantic-primary-neutral-text-hover-color: #525252; --ldsm-semantic-primary-neutral-text-highlighted-color: #858585; --ldsm-semantic-secondary-text: #555555; --ldsm-semantic-secondary-text-hover-color: #333333; --ldsm-semantic-secondary-text-highlighted-color: #212121; --ldsm-semantic-secondary-alt-text: #3f3f3f; --ldsm-semantic-secondary-alt-text-hover-color: #808080; --ldsm-semantic-secondary-alt-text-highlighted-color: #b3b3b3; --ldsm-semantic-secondary-sub-text: #555555; --ldsm-semantic-secondary-sub-text-hover-color: #333333; --ldsm-semantic-secondary-sub-text-highlighted-color: #212121; --ldsm-semantic-secondary-sub-2-text: #3f3f3f; --ldsm-semantic-secondary-sub-2-text-hover-color: #808080; --ldsm-semantic-secondary-sub-2-text-highlighted-color: #b3b3b3; --ldsm-semantic-secondary-sub-3-text: #555555; --ldsm-semantic-secondary-sub-3-text-hover-color: #333333; --ldsm-semantic-secondary-sub-3-text-highlighted-color: #212121; --ldsm-semantic-tertiary-text: #777777; --ldsm-semantic-tertiary-text-hover-color: #575757; --ldsm-semantic-tertiary-text-highlighted-color: #454545; --ldsm-semantic-tertiary-alt-text: #777777; --ldsm-semantic-tertiary-alt-text-hover-color: #575757; --ldsm-semantic-tertiary-alt-text-highlighted-color: #454545; --ldsm-semantic-tertiary-sub-text: #777777; --ldsm-semantic-tertiary-sub-text-hover-color: #575757; --ldsm-semantic-tertiary-sub-text-highlighted-color: #454545; --ldsm-semantic-tertiary-sub-2-text: #777777; --ldsm-semantic-tertiary-sub-2-text-hover-color: #575757; --ldsm-semantic-tertiary-sub-2-text-highlighted-color: #454545; --ldsm-semantic-quaternary-text: #949494; --ldsm-semantic-quaternary-text-hover-color: #737373; --ldsm-semantic-quaternary-text-highlighted-color: #616161; --ldsm-semantic-quaternary-alt-text: #949494; --ldsm-semantic-quaternary-alt-text-hover-color: #737373; --ldsm-semantic-quaternary-alt-text-highlighted-color: #616161; --ldsm-semantic-quaternary-sub-text: #949494; --ldsm-semantic-quaternary-sub-text-hover-color: #737373; --ldsm-semantic-quaternary-sub-text-highlighted-color: #616161; --ldsm-semantic-quinary-text: #b7b7b7; --ldsm-semantic-quinary-text-hover-color: #969696; --ldsm-semantic-quinary-text-highlighted-color: #858585; --ldsm-semantic-quinary-alt-text: #b7b7b7; --ldsm-semantic-quinary-alt-text-hover-color: #969696; --ldsm-semantic-quinary-alt-text-highlighted-color: #858585; --ldsm-semantic-quinary-sub-text: #b7b7b7; --ldsm-semantic-quinary-sub-text-hover-color: #969696; --ldsm-semantic-quinary-sub-text-highlighted-color: #858585; --ldsm-semantic-quinary-sub-2-text: #b7b7b7; --ldsm-semantic-quinary-sub-2-text-hover-color: #969696; --ldsm-semantic-quinary-sub-2-text-highlighted-color: #858585; --ldsm-semantic-senary-text: #2a2a2a; --ldsm-semantic-senary-text-hover-color: #696969; --ldsm-semantic-senary-text-highlighted-color: #9c9c9c; --ldsm-semantic-senary-alt-text: #2a2a2a; --ldsm-semantic-senary-alt-text-hover-color: #696969; --ldsm-semantic-senary-alt-text-highlighted-color: #9c9c9c; --ldsm-semantic-senary-sub-text: #2a2a2a; --ldsm-semantic-senary-sub-text-hover-color: #696969; --ldsm-semantic-senary-sub-text-highlighted-color: #9c9c9c; --ldsm-semantic-septenary-text: #c8c8c8; --ldsm-semantic-septenary-text-hover-color: #a6a6a6; --ldsm-semantic-septenary-text-highlighted-color: #949494; --ldsm-semantic-septenary-alt-text: #c8c8c8; --ldsm-semantic-septenary-alt-text-hover-color: #a6a6a6; --ldsm-semantic-septenary-alt-text-highlighted-color: #949494; --ldsm-semantic-octonary-text: #616161; --ldsm-semantic-octonary-text-hover-color: #404040; --ldsm-semantic-octonary-text-highlighted-color: #2e2e2e; --ldsm-semantic-octonary-alt-text: #616161; --ldsm-semantic-octonary-alt-text-hover-color: #404040; --ldsm-semantic-octonary-alt-text-highlighted-color: #2e2e2e; --ldsm-semantic-nonary-text: #1f1f1f; --ldsm-semantic-nonary-text-hover-color: #5e5e5e; --ldsm-semantic-nonary-text-highlighted-color: #919191; --ldsm-semantic-nonary-alt-text: #1f1f1f; --ldsm-semantic-nonary-alt-text-hover-color: #5e5e5e; --ldsm-semantic-nonary-alt-text-highlighted-color: #919191; --ldsm-semantic-denary-text: #e8e8e8; --ldsm-semantic-denary-text-hover-color: #b5b5b5; --ldsm-semantic-denary-text-highlighted-color: #8f8f8f; --ldsm-semantic-prominent-text: #ff334b; --ldsm-semantic-prominent-text-hover-color: #cc293c; --ldsm-semantic-prominent-text-highlighted-color: #a62131; --ldsm-semantic-primary-accent-text: #6388ff; --ldsm-semantic-primary-accent-text-hover-color: #506dcc; --ldsm-semantic-primary-accent-text-highlighted-color: #4158a6; --ldsm-semantic-secondary-accent-text: #4d73ff; --ldsm-semantic-secondary-accent-text-hover-color: #3d5ccc; --ldsm-semantic-secondary-accent-text-highlighted-color: #324ba6; --ldsm-semantic-branding-text: #06c755; --ldsm-semantic-branding-text-hover-color: #05a648; --ldsm-semantic-branding-text-highlighted-color: #049440; --ldsm-semantic-placeholder-text: #dfdfdf; --ldsm-semantic-placeholder-text-hover-color: #ababab; --ldsm-semantic-placeholder-text-highlighted-color: #858585; --ldsm-semantic-sub-placeholder-text: #dfdfdf; --ldsm-semantic-sub-placeholder-text-hover-color: #ababab; --ldsm-semantic-sub-placeholder-text-highlighted-color: #858585; --ldsm-semantic-secondary-placeholder-text: #b7b7b7; --ldsm-semantic-secondary-placeholder-text-hover-color: #969696; --ldsm-semantic-secondary-placeholder-text-highlighted-color: #858585; --ldsm-semantic-primary-link: #4d73ff; --ldsm-semantic-secondary-link: #2c53de; --ldsm-semantic-primary-fill: #06c755; --ldsm-semantic-primary-fill-hover-color: #05a648; --ldsm-semantic-primary-fill-highlighted-color: #049440; --ldsm-semantic-on-primary-fill: #ffffff; --ldsm-semantic-on-primary-fill-hover-color: #fcfcfc; --ldsm-semantic-on-primary-fill-highlighted-color: #f5f5f5; --ldsm-semantic-prominent-fill: #ff334b; --ldsm-semantic-prominent-fill-hover-color: #cc293c; --ldsm-semantic-prominent-fill-highlighted-color: #a62131; --ldsm-semantic-secondary-prominent-fill: #ff697a; --ldsm-semantic-secondary-prominent-fill-hover-color: #cc5462; --ldsm-semantic-secondary-prominent-fill-highlighted-color: #a6444f; --ldsm-semantic-on-prominent-fill: #ffffff; --ldsm-semantic-on-prominent-fill-hover-color: #fcfcfc; --ldsm-semantic-on-prominent-fill-highlighted-color: #f5f5f5; --ldsm-semantic-secondary-fill: #707991; --ldsm-semantic-secondary-fill-hover-color: #565d70; --ldsm-semantic-secondary-fill-highlighted-color: #494e5e; --ldsm-semantic-tertiary-fill: #dfdfdf; --ldsm-semantic-tertiary-fill-hover-color: #ababab; --ldsm-semantic-tertiary-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-alt-fill: #dfdfdf; --ldsm-semantic-tertiary-alt-fill-hover-color: #ababab; --ldsm-semantic-tertiary-alt-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-sub-fill: #dfdfdf; --ldsm-semantic-tertiary-sub-fill-hover-color: #ababab; --ldsm-semantic-tertiary-sub-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-sub-2-fill: #dfdfdf; --ldsm-semantic-tertiary-sub-2-fill-hover-color: #ababab; --ldsm-semantic-tertiary-sub-2-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-sub-3-fill: #dfdfdf; --ldsm-semantic-tertiary-sub-3-fill-hover-color: #ababab; --ldsm-semantic-tertiary-sub-3-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-sub-4-fill: #dfdfdf; --ldsm-semantic-tertiary-sub-4-fill-hover-color: #ababab; --ldsm-semantic-tertiary-sub-4-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-sub-6-fill: #dfdfdf; --ldsm-semantic-tertiary-sub-6-fill-hover-color: #ababab; --ldsm-semantic-tertiary-sub-6-fill-highlighted-color: #858585; --ldsm-semantic-on-tertiary-fill: #777777; --ldsm-semantic-on-tertiary-fill-hover-color: #575757; --ldsm-semantic-on-tertiary-fill-highlighted-color: #454545; --ldsm-semantic-quaternary-fill: #efefef; --ldsm-semantic-quaternary-fill-hover-color: #bdbdbd; --ldsm-semantic-quaternary-fill-highlighted-color: #969696; --ldsm-semantic-quaternary-alt-fill: #efefef; --ldsm-semantic-quaternary-alt-fill-hover-color: #bdbdbd; --ldsm-semantic-quaternary-alt-fill-highlighted-color: #969696; --ldsm-semantic-on-quaternary-fill: #777777; --ldsm-semantic-on-quaternary-fill-hover-color: #575757; --ldsm-semantic-on-quaternary-fill-highlighted-color: #454545; --ldsm-semantic-quinary-fill: #e8e8e8; --ldsm-semantic-quinary-fill-hover-color: #b5b5b5; --ldsm-semantic-quinary-fill-highlighted-color: #8f8f8f; --ldsm-semantic-quinary-alt-fill: #e8e8e8; --ldsm-semantic-quinary-alt-fill-hover-color: #b5b5b5; --ldsm-semantic-quinary-alt-fill-highlighted-color: #8f8f8f; --ldsm-semantic-quinary-sub-fill: #e8e8e8; --ldsm-semantic-quinary-sub-fill-hover-color: #b5b5b5; --ldsm-semantic-quinary-sub-fill-highlighted-color: #8f8f8f; --ldsm-semantic-quinary-sub-2-fill: #e8e8e8; --ldsm-semantic-quinary-sub-2-fill-hover-color: #b5b5b5; --ldsm-semantic-quinary-sub-2-fill-highlighted-color: #8f8f8f; --ldsm-semantic-primary-neutral-fill: #efefef; --ldsm-semantic-primary-neutral-fill-hover-color: #bdbdbd; --ldsm-semantic-primary-neutral-fill-highlighted-color: #969696; --ldsm-semantic-primary-alt-neutral-fill: #efefef; --ldsm-semantic-primary-alt-neutral-fill-hover-color: #bdbdbd; --ldsm-semantic-primary-alt-neutral-fill-highlighted-color: #969696; --ldsm-semantic-on-primary-neutral-fill: #777777; --ldsm-semantic-on-primary-neutral-fill-hover-color: #575757; --ldsm-semantic-on-primary-neutral-fill-highlighted-color: #454545; --ldsm-semantic-primary-sub-neutral-fill: #efefef; --ldsm-semantic-primary-sub-neutral-fill-hover-color: #bdbdbd; --ldsm-semantic-primary-sub-neutral-fill-highlighted-color: #969696; --ldsm-semantic-secondary-neutral-fill: #c8c8c8; --ldsm-semantic-secondary-neutral-fill-hover-color: #a6a6a6; --ldsm-semantic-secondary-neutral-fill-highlighted-color: #949494; --ldsm-semantic-secondary-alt-neutral-fill: #c8c8c8; --ldsm-semantic-secondary-alt-neutral-fill-hover-color: #a6a6a6; --ldsm-semantic-secondary-alt-neutral-fill-highlighted-color: #949494; --ldsm-semantic-secondary-sub-neutral-fill: #c8c8c8; --ldsm-semantic-secondary-sub-neutral-fill-hover-color: #a6a6a6; --ldsm-semantic-secondary-sub-neutral-fill-highlighted-color: #949494; --ldsm-semantic-tertiary-neutral-fill: #b7b7b7; --ldsm-semantic-tertiary-neutral-fill-hover-color: #969696; --ldsm-semantic-tertiary-neutral-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-alt-neutral-fill: #b7b7b7; --ldsm-semantic-tertiary-alt-neutral-fill-hover-color: #969696; --ldsm-semantic-tertiary-alt-neutral-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-sub-neutral-fill: #b7b7b7; --ldsm-semantic-tertiary-sub-neutral-fill-hover-color: #969696; --ldsm-semantic-tertiary-sub-neutral-fill-highlighted-color: #858585; --ldsm-semantic-tertiary-sub-2-neutral-fill: #b7b7b7; --ldsm-semantic-tertiary-sub-2-neutral-fill-hover-color: #969696; --ldsm-semantic-tertiary-sub-2-neutral-fill-highlighted-color: #858585; --ldsm-semantic-quaternary-neutral-fill: #949494; --ldsm-semantic-quaternary-neutral-fill-hover-color: #737373; --ldsm-semantic-quaternary-neutral-fill-highlighted-color: #616161; --ldsm-semantic-quaternary-alt-neutral-fill: #949494; --ldsm-semantic-quaternary-alt-neutral-fill-hover-color: #737373; --ldsm-semantic-quaternary-alt-neutral-fill-highlighted-color: #616161; --ldsm-semantic-quaternary-sub-neutral-fill: #949494; --ldsm-semantic-quaternary-sub-neutral-fill-hover-color: #737373; --ldsm-semantic-quaternary-sub-neutral-fill-highlighted-color: #616161; --ldsm-semantic-quinary-neutral-fill: #777777; --ldsm-semantic-quinary-neutral-fill-hover-color: #575757; --ldsm-semantic-quinary-neutral-fill-highlighted-color: #454545; --ldsm-semantic-senary-neutral-fill: #555555; --ldsm-semantic-senary-neutral-fill-hover-color: #333333; --ldsm-semantic-senary-neutral-fill-highlighted-color: #212121; --ldsm-semantic-senary-sub-2-neutral-fill: #3f3f3f; --ldsm-semantic-senary-sub-2-neutral-fill-hover-color: #808080; --ldsm-semantic-senary-sub-2-neutral-fill-highlighted-color: #b3b3b3; --ldsm-semantic-septenary-neutral-fill: #2a2a2a; --ldsm-semantic-septenary-neutral-fill-hover-color: #696969; --ldsm-semantic-septenary-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-septenary-alt-neutral-fill: #2a2a2a; --ldsm-semantic-septenary-alt-neutral-fill-hover-color: #696969; --ldsm-semantic-septenary-alt-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-septenary-sub-neutral-fill: #2a2a2a; --ldsm-semantic-septenary-sub-neutral-fill-hover-color: #696969; --ldsm-semantic-septenary-sub-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-septenary-sub-2-neutral-fill: #2a2a2a; --ldsm-semantic-septenary-sub-2-neutral-fill-hover-color: #696969; --ldsm-semantic-septenary-sub-2-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-octonary-alt-neutral-fill: #111111; --ldsm-semantic-octonary-alt-neutral-fill-hover-color: #525252; --ldsm-semantic-octonary-alt-neutral-fill-highlighted-color: #858585; --ldsm-semantic-octonary-sub-neutral-fill: #111111; --ldsm-semantic-octonary-sub-neutral-fill-hover-color: #525252; --ldsm-semantic-octonary-sub-neutral-fill-highlighted-color: #858585; --ldsm-semantic-octonary-sub-2-neutral-fill: #111111; --ldsm-semantic-octonary-sub-2-neutral-fill-hover-color: #525252; --ldsm-semantic-octonary-sub-2-neutral-fill-highlighted-color: #858585; --ldsm-semantic-nonary-neutral-fill: #616161; --ldsm-semantic-nonary-neutral-fill-hover-color: #404040; --ldsm-semantic-nonary-neutral-fill-highlighted-color: #2e2e2e; --ldsm-semantic-default-neutral-fill: #ffffff; --ldsm-semantic-default-neutral-fill-hover-color: #fcfcfc; --ldsm-semantic-default-neutral-fill-highlighted-color: #f5f5f5; --ldsm-semantic-default-alt-neutral-fill: #ffffff; --ldsm-semantic-default-alt-neutral-fill-hover-color: #fcfcfc; --ldsm-semantic-default-alt-neutral-fill-highlighted-color: #f5f5f5; --ldsm-semantic-default-sub-neutral-fill: #ffffff; --ldsm-semantic-default-sub-neutral-fill-hover-color: #fcfcfc; --ldsm-semantic-default-sub-neutral-fill-highlighted-color: #f5f5f5; --ldsm-semantic-default-sub-2-neutral-fill: #ffffff; --ldsm-semantic-default-sub-2-neutral-fill-hover-color: #fcfcfc; --ldsm-semantic-default-sub-2-neutral-fill-highlighted-color: #f5f5f5; --ldsm-semantic-light-neutral-fill: #f5f5f5; --ldsm-semantic-light-neutral-fill-hover-color: #c2c2c2; --ldsm-semantic-light-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-light-alt-neutral-fill: #f5f5f5; --ldsm-semantic-light-alt-neutral-fill-hover-color: #c2c2c2; --ldsm-semantic-light-alt-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-light-sub-neutral-fill: #f5f5f5; --ldsm-semantic-light-sub-neutral-fill-hover-color: #c2c2c2; --ldsm-semantic-light-sub-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-on-light-neutral-fill: #949494; --ldsm-semantic-on-light-neutral-fill-hover-color: #737373; --ldsm-semantic-on-light-neutral-fill-highlighted-color: #616161; --ldsm-semantic-basic-neutral-fill: #ffffff; --ldsm-semantic-basic-neutral-fill-hover-color: #fcfcfc; --ldsm-semantic-basic-neutral-fill-highlighted-color: #f5f5f5; --ldsm-semantic-primary-accent-fill: #6388ff; --ldsm-semantic-primary-accent-fill-hover-color: #506dcc; --ldsm-semantic-primary-accent-fill-highlighted-color: #4158a6; --ldsm-semantic-on-primary-accent-fill: #ffffff; --ldsm-semantic-on-primary-accent-fill-hover-color: #fcfcfc; --ldsm-semantic-on-primary-accent-fill-highlighted-color: #f5f5f5; --ldsm-semantic-secondary-accent-fill: #96b1ff; --ldsm-semantic-secondary-accent-fill-hover-color: #788dcc; --ldsm-semantic-secondary-accent-fill-highlighted-color: #6273a6; --ldsm-semantic-on-secondary-accent-fill: #ffffff; --ldsm-semantic-on-secondary-accent-fill-hover-color: #fcfcfc; --ldsm-semantic-on-secondary-accent-fill-highlighted-color: #f5f5f5; --ldsm-semantic-tertiary-accent-fill: #4d73ff; --ldsm-semantic-tertiary-accent-fill-hover-color: #3d5ccc; --ldsm-semantic-tertiary-accent-fill-highlighted-color: #324ba6; --ldsm-semantic-primary-inverse-fill: #000000; --ldsm-semantic-primary-inverse-fill-hover-color: #404040; --ldsm-semantic-primary-inverse-fill-highlighted-color: #737373; --ldsm-semantic-on-primary-inverse-fill: #ffffff; --ldsm-semantic-on-primary-inverse-fill-hover-color: #fcfcfc; --ldsm-semantic-on-primary-inverse-fill-highlighted-color: #f5f5f5; --ldsm-semantic-secondary-inverse-fill: #2a2a2a; --ldsm-semantic-secondary-inverse-fill-hover-color: #696969; --ldsm-semantic-secondary-inverse-fill-highlighted-color: #9c9c9c; --ldsm-semantic-on-secondary-inverse-fill: #efefef; --ldsm-semantic-on-secondary-inverse-fill-hover-color: #bdbdbd; --ldsm-semantic-on-secondary-inverse-fill-highlighted-color: #969696; --ldsm-semantic-tertiary-inverse-fill: #111111; --ldsm-semantic-tertiary-inverse-fill-hover-color: #525252; --ldsm-semantic-tertiary-inverse-fill-highlighted-color: #858585; --ldsm-semantic-primary-highlighted-fill: #fff200; --ldsm-semantic-primary-highlighted-fill-hover-color: #ccc200; --ldsm-semantic-primary-highlighted-fill-highlighted-color: #a69d00; --ldsm-semantic-secondary-highlighted-fill: #fdffe5; --ldsm-semantic-secondary-highlighted-fill-hover-color: #caccb8; --ldsm-semantic-secondary-highlighted-fill-highlighted-color: #a4a695; --ldsm-semantic-primary-background: #ffffff; --ldsm-semantic-secondary-background: #fcfcfc; --ldsm-semantic-tertiary-background: #f5f5f5; --ldsm-semantic-tertiary-alt-background: #f5f5f5; --ldsm-semantic-tertiary-sub-background: #f5f5f5; --ldsm-semantic-secondary-alt-background: #fcfcfc; --ldsm-semantic-primary-surface: #ffffff; --ldsm-semantic-primary-surface-pressed: #f5f5f5; --ldsm-semantic-primary-surface-alt-pressed: rgba(0, 0, 0, .03); --ldsm-semantic-primary-surface-sub-pressed: #f5f5f5; --ldsm-semantic-primary-alt-surface: #ffffff; --ldsm-semantic-primary-sub-surface: #ffffff; --ldsm-semantic-popup-surface: #ffffff; --ldsm-semantic-popup-alt-surface: #ffffff; --ldsm-semantic-context-menu-surface: #2a2a2a; --ldsm-semantic-primary-separator: #efefef; --ldsm-semantic-primary-alt-separator: #efefef; --ldsm-semantic-secondary-separator: #dfdfdf; --ldsm-semantic-tertiary-separator: #f5f5f5; --ldsm-semantic-quaternary-separator: #c8c8c8; --ldsm-semantic-light: #ffffff; --ldsm-semantic-light-pressed: rgba(255, 255, 255, .45); --ldsm-semantic-secondary-light: #efefef; --ldsm-semantic-tertiary-light: #dfdfdf; --ldsm-semantic-default-dark: #000000; --ldsm-semantic-primary-dark: #111111; --ldsm-semantic-tertiary-dark: #777777; --ldsm-semantic-quaternary-dark: #949494; --ldsm-semantic-quinary-dark: #616161; --ldsm-semantic-senary-dark: #2a2a2a; --ldsm-semantic-primary-disabled: rgba(255, 255, 255, .4); --ldsm-semantic-primary-alt-disabled: white; --ldsm-semantic-primary-sub-disabled: rgba(255, 255, 255, .4); --ldsm-semantic-secondary-disabled: rgba(17, 17, 17, .4); --ldsm-semantic-secondary-alt-disabled: rgba(0, 0, 0, .2); --ldsm-semantic-chat-background: #8cabd8; --ldsm-semantic-chat-bubble-surface: #6de67b; --ldsm-semantic-secondary-on-chat-bubble-surface: #1e6e1e; --ldsm-semantic-tertiary-on-chat-bubble-surface: #3d9e43; --ldsm-semantic-chat-bubble-separator: #58db67; --ldsm-semantic-chat-bubble-content-fill: #5bdd6a; --ldsm-semantic-chat-bubble-content-fill-hover-color: #46ab52; --ldsm-semantic-chat-bubble-content-fill-highlighted-color: #36853f; --ldsm-semantic-primary-legacy-fill: #202a43; --ldsm-semantic-primary-legacy-fill-hover-color: #3e5282; --ldsm-semantic-primary-legacy-fill-highlighted-color: #5772b5; --ldsm-semantic-quinary-legacy-fill: #707991; --ldsm-semantic-quinary-legacy-fill-hover-color: #565d70; --ldsm-semantic-quinary-legacy-fill-highlighted-color: #494e5e; --ldsm-semantic-secondary-on-legacy-fill: #98a0b3; --ldsm-semantic-secondary-on-legacy-fill-hover-color: #7c8291; --ldsm-semantic-secondary-on-legacy-fill-highlighted-color: #6c7280; --ldsm-semantic-primary-legacy-text: #464f69; --ldsm-semantic-primary-legacy-text-hover-color: #303647; --ldsm-semantic-primary-legacy-text-highlighted-color: #242836; --ldsm-semantic-secondary-legacy-text: #707991; --ldsm-semantic-secondary-legacy-text-hover-color: #565d70; --ldsm-semantic-secondary-legacy-text-highlighted-color: #494e5e; --ldsm-semantic-additional-text: #ffffff; --ldsm-semantic-additional-text-hover-color: #fcfcfc; --ldsm-semantic-additional-text-highlighted-color: #f5f5f5; --ldsm-semantic-swipe-fill: #35db80; --ldsm-semantic-swipe-fill-hover-color: #2dba6c; --ldsm-semantic-swipe-fill-highlighted-color: #28a862; --ldsm-semantic-splash-background: #06c755; }
+
+:root.dark { --ldsm-semantic-default-text: #ffffff; --ldsm-semantic-default-text-hover-color: #fcfcfc; --ldsm-semantic-default-text-highlighted-color: #f5f5f5; --ldsm-semantic-default-alt-text: #777777; --ldsm-semantic-default-alt-text-hover-color: #575757; --ldsm-semantic-default-alt-text-highlighted-color: #454545; --ldsm-semantic-primary-text: #ffffff; --ldsm-semantic-primary-text-hover-color: #fcfcfc; --ldsm-semantic-primary-text-highlighted-color: #f5f5f5; --ldsm-semantic-primary-alt-text: #dfdfdf; --ldsm-semantic-primary-alt-text-hover-color: #ababab; --ldsm-semantic-primary-alt-text-highlighted-color: #858585; --ldsm-semantic-primary-sub-text: #949494; --ldsm-semantic-primary-sub-text-hover-color: #737373; --ldsm-semantic-primary-sub-text-highlighted-color: #616161; --ldsm-semantic-primary-sub-2-text: #efefef; --ldsm-semantic-primary-sub-2-text-hover-color: #bdbdbd; --ldsm-semantic-primary-sub-2-text-highlighted-color: #969696; --ldsm-semantic-primary-sub-3-text: #f5f5f5; --ldsm-semantic-primary-sub-3-text-hover-color: #c2c2c2; --ldsm-semantic-primary-sub-3-text-highlighted-color: #9c9c9c; --ldsm-semantic-primary-neutral-text: #616161; --ldsm-semantic-primary-neutral-text-hover-color: #404040; --ldsm-semantic-primary-neutral-text-highlighted-color: #2e2e2e; --ldsm-semantic-secondary-text: #b7b7b7; --ldsm-semantic-secondary-text-hover-color: #969696; --ldsm-semantic-secondary-text-highlighted-color: #858585; --ldsm-semantic-secondary-alt-text: #949494; --ldsm-semantic-secondary-alt-text-hover-color: #737373; --ldsm-semantic-secondary-alt-text-highlighted-color: #616161; --ldsm-semantic-secondary-sub-text: #949494; --ldsm-semantic-secondary-sub-text-hover-color: #737373; --ldsm-semantic-secondary-sub-text-highlighted-color: #616161; --ldsm-semantic-secondary-sub-2-text: #777777; --ldsm-semantic-secondary-sub-2-text-hover-color: #575757; --ldsm-semantic-secondary-sub-2-text-highlighted-color: #454545; --ldsm-semantic-secondary-sub-3-text: #616161; --ldsm-semantic-secondary-sub-3-text-hover-color: #404040; --ldsm-semantic-secondary-sub-3-text-highlighted-color: #2e2e2e; --ldsm-semantic-tertiary-text: #777777; --ldsm-semantic-tertiary-text-hover-color: #575757; --ldsm-semantic-tertiary-text-highlighted-color: #454545; --ldsm-semantic-tertiary-alt-text: #949494; --ldsm-semantic-tertiary-alt-text-hover-color: #737373; --ldsm-semantic-tertiary-alt-text-highlighted-color: #616161; --ldsm-semantic-tertiary-sub-text: #555555; --ldsm-semantic-tertiary-sub-text-hover-color: #333333; --ldsm-semantic-tertiary-sub-text-highlighted-color: #212121; --ldsm-semantic-tertiary-sub-2-text: #e8e8e8; --ldsm-semantic-tertiary-sub-2-text-hover-color: #b5b5b5; --ldsm-semantic-tertiary-sub-2-text-highlighted-color: #8f8f8f; --ldsm-semantic-quaternary-text: #777777; --ldsm-semantic-quaternary-text-hover-color: #575757; --ldsm-semantic-quaternary-text-highlighted-color: #454545; --ldsm-semantic-quaternary-alt-text: #616161; --ldsm-semantic-quaternary-alt-text-hover-color: #404040; --ldsm-semantic-quaternary-alt-text-highlighted-color: #2e2e2e; --ldsm-semantic-quaternary-sub-text: #555555; --ldsm-semantic-quaternary-sub-text-hover-color: #333333; --ldsm-semantic-quaternary-sub-text-highlighted-color: #212121; --ldsm-semantic-quinary-text: #555555; --ldsm-semantic-quinary-text-hover-color: #333333; --ldsm-semantic-quinary-text-highlighted-color: #212121; --ldsm-semantic-quinary-alt-text: #616161; --ldsm-semantic-quinary-alt-text-hover-color: #404040; --ldsm-semantic-quinary-alt-text-highlighted-color: #2e2e2e; --ldsm-semantic-quinary-sub-text: #3f3f3f; --ldsm-semantic-quinary-sub-text-hover-color: #808080; --ldsm-semantic-quinary-sub-text-highlighted-color: #b3b3b3; --ldsm-semantic-quinary-sub-2-text: #949494; --ldsm-semantic-quinary-sub-2-text-hover-color: #737373; --ldsm-semantic-quinary-sub-2-text-highlighted-color: #616161; --ldsm-semantic-senary-text: #616161; --ldsm-semantic-senary-text-hover-color: #404040; --ldsm-semantic-senary-text-highlighted-color: #2e2e2e; --ldsm-semantic-senary-alt-text: #949494; --ldsm-semantic-senary-alt-text-hover-color: #737373; --ldsm-semantic-senary-alt-text-highlighted-color: #616161; --ldsm-semantic-senary-sub-text: #e8e8e8; --ldsm-semantic-senary-sub-text-hover-color: #b5b5b5; --ldsm-semantic-senary-sub-text-highlighted-color: #8f8f8f; --ldsm-semantic-septenary-text: #616161; --ldsm-semantic-septenary-text-hover-color: #404040; --ldsm-semantic-septenary-text-highlighted-color: #2e2e2e; --ldsm-semantic-septenary-alt-text: #3f3f3f; --ldsm-semantic-septenary-alt-text-hover-color: #808080; --ldsm-semantic-septenary-alt-text-highlighted-color: #b3b3b3; --ldsm-semantic-octonary-text: #949494; --ldsm-semantic-octonary-text-hover-color: #737373; --ldsm-semantic-octonary-text-highlighted-color: #616161; --ldsm-semantic-octonary-alt-text: #777777; --ldsm-semantic-octonary-alt-text-hover-color: #575757; --ldsm-semantic-octonary-alt-text-highlighted-color: #454545; --ldsm-semantic-nonary-text: #efefef; --ldsm-semantic-nonary-text-hover-color: #bdbdbd; --ldsm-semantic-nonary-text-highlighted-color: #969696; --ldsm-semantic-nonary-alt-text: #f5f5f5; --ldsm-semantic-nonary-alt-text-hover-color: #c2c2c2; --ldsm-semantic-nonary-alt-text-highlighted-color: #9c9c9c; --ldsm-semantic-denary-text: #2a2a2a; --ldsm-semantic-denary-text-hover-color: #696969; --ldsm-semantic-denary-text-highlighted-color: #9c9c9c; --ldsm-semantic-prominent-text: #ff334b; --ldsm-semantic-prominent-text-hover-color: #cc293c; --ldsm-semantic-prominent-text-highlighted-color: #a62131; --ldsm-semantic-primary-accent-text: #6388ff; --ldsm-semantic-primary-accent-text-hover-color: #506dcc; --ldsm-semantic-primary-accent-text-highlighted-color: #4158a6; --ldsm-semantic-secondary-accent-text: #4d73ff; --ldsm-semantic-secondary-accent-text-hover-color: #3d5ccc; --ldsm-semantic-secondary-accent-text-highlighted-color: #324ba6; --ldsm-semantic-branding-text: #06c755; --ldsm-semantic-branding-text-hover-color: #05a648; --ldsm-semantic-branding-text-highlighted-color: #049440; --ldsm-semantic-placeholder-text: #2a2a2a; --ldsm-semantic-placeholder-text-hover-color: #696969; --ldsm-semantic-placeholder-text-highlighted-color: #9c9c9c; --ldsm-semantic-sub-placeholder-text: #3f3f3f; --ldsm-semantic-sub-placeholder-text-hover-color: #808080; --ldsm-semantic-sub-placeholder-text-highlighted-color: #b3b3b3; --ldsm-semantic-secondary-placeholder-text: #555555; --ldsm-semantic-secondary-placeholder-text-hover-color: #333333; --ldsm-semantic-secondary-placeholder-text-highlighted-color: #212121; --ldsm-semantic-primary-link: #4d73ff; --ldsm-semantic-secondary-link: #2c53de; --ldsm-semantic-primary-fill: #06c755; --ldsm-semantic-primary-fill-hover-color: #05a648; --ldsm-semantic-primary-fill-highlighted-color: #049440; --ldsm-semantic-on-primary-fill: #ffffff; --ldsm-semantic-on-primary-fill-hover-color: #fcfcfc; --ldsm-semantic-on-primary-fill-highlighted-color: #f5f5f5; --ldsm-semantic-prominent-fill: #ff334b; --ldsm-semantic-prominent-fill-hover-color: #cc293c; --ldsm-semantic-prominent-fill-highlighted-color: #a62131; --ldsm-semantic-secondary-prominent-fill: #ff697a; --ldsm-semantic-secondary-prominent-fill-hover-color: #cc5462; --ldsm-semantic-secondary-prominent-fill-highlighted-color: #a6444f; --ldsm-semantic-on-prominent-fill: #ffffff; --ldsm-semantic-on-prominent-fill-hover-color: #fcfcfc; --ldsm-semantic-on-prominent-fill-highlighted-color: #f5f5f5; --ldsm-semantic-secondary-fill: #323b54; --ldsm-semantic-secondary-fill-hover-color: #1f2433; --ldsm-semantic-secondary-fill-highlighted-color: #141721; --ldsm-semantic-tertiary-fill: #2a2a2a; --ldsm-semantic-tertiary-fill-hover-color: #696969; --ldsm-semantic-tertiary-fill-highlighted-color: #9c9c9c; --ldsm-semantic-tertiary-alt-fill: #3f3f3f; --ldsm-semantic-tertiary-alt-fill-hover-color: #808080; --ldsm-semantic-tertiary-alt-fill-highlighted-color: #b3b3b3; --ldsm-semantic-tertiary-sub-fill: #777777; --ldsm-semantic-tertiary-sub-fill-hover-color: #575757; --ldsm-semantic-tertiary-sub-fill-highlighted-color: #454545; --ldsm-semantic-tertiary-sub-2-fill: #fcfcfc; --ldsm-semantic-tertiary-sub-2-fill-hover-color: #c9c9c9; --ldsm-semantic-tertiary-sub-2-fill-highlighted-color: #a3a3a3; --ldsm-semantic-tertiary-sub-3-fill: #616161; --ldsm-semantic-tertiary-sub-3-fill-hover-color: #404040; --ldsm-semantic-tertiary-sub-3-fill-highlighted-color: #2e2e2e; --ldsm-semantic-tertiary-sub-4-fill: #383838; --ldsm-semantic-tertiary-sub-4-fill-hover-color: #787878; --ldsm-semantic-tertiary-sub-4-fill-highlighted-color: #ababab; --ldsm-semantic-tertiary-sub-6-fill: #949494; --ldsm-semantic-tertiary-sub-6-fill-hover-color: #737373; --ldsm-semantic-tertiary-sub-6-fill-highlighted-color: #616161; --ldsm-semantic-on-tertiary-fill: #777777; --ldsm-semantic-on-tertiary-fill-hover-color: #575757; --ldsm-semantic-on-tertiary-fill-highlighted-color: #454545; --ldsm-semantic-quaternary-fill: #3f3f3f; --ldsm-semantic-quaternary-fill-hover-color: #808080; --ldsm-semantic-quaternary-fill-highlighted-color: #b3b3b3; --ldsm-semantic-quaternary-alt-fill: #777777; --ldsm-semantic-quaternary-alt-fill-hover-color: #575757; --ldsm-semantic-quaternary-alt-fill-highlighted-color: #454545; --ldsm-semantic-on-quaternary-fill: #b7b7b7; --ldsm-semantic-on-quaternary-fill-hover-color: #969696; --ldsm-semantic-on-quaternary-fill-highlighted-color: #858585; --ldsm-semantic-quinary-fill: #1f1f1f; --ldsm-semantic-quinary-fill-hover-color: #5e5e5e; --ldsm-semantic-quinary-fill-highlighted-color: #919191; --ldsm-semantic-quinary-alt-fill: #3f3f3f; --ldsm-semantic-quinary-alt-fill-hover-color: #808080; --ldsm-semantic-quinary-alt-fill-highlighted-color: #b3b3b3; --ldsm-semantic-quinary-sub-fill: #2a2a2a; --ldsm-semantic-quinary-sub-fill-hover-color: #696969; --ldsm-semantic-quinary-sub-fill-highlighted-color: #9c9c9c; --ldsm-semantic-quinary-sub-2-fill: #555555; --ldsm-semantic-quinary-sub-2-fill-hover-color: #333333; --ldsm-semantic-quinary-sub-2-fill-highlighted-color: #212121; --ldsm-semantic-primary-neutral-fill: #2a2a2a; --ldsm-semantic-primary-neutral-fill-hover-color: #696969; --ldsm-semantic-primary-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-primary-alt-neutral-fill: #111111; --ldsm-semantic-primary-alt-neutral-fill-hover-color: #525252; --ldsm-semantic-primary-alt-neutral-fill-highlighted-color: #858585; --ldsm-semantic-on-primary-neutral-fill: #777777; --ldsm-semantic-on-primary-neutral-fill-hover-color: #575757; --ldsm-semantic-on-primary-neutral-fill-highlighted-color: #454545; --ldsm-semantic-primary-sub-neutral-fill: #555555; --ldsm-semantic-primary-sub-neutral-fill-hover-color: #333333; --ldsm-semantic-primary-sub-neutral-fill-highlighted-color: #212121; --ldsm-semantic-secondary-neutral-fill: #555555; --ldsm-semantic-secondary-neutral-fill-hover-color: #333333; --ldsm-semantic-secondary-neutral-fill-highlighted-color: #212121; --ldsm-semantic-secondary-alt-neutral-fill: #616161; --ldsm-semantic-secondary-alt-neutral-fill-hover-color: #404040; --ldsm-semantic-secondary-alt-neutral-fill-highlighted-color: #2e2e2e; --ldsm-semantic-secondary-sub-neutral-fill: #3f3f3f; --ldsm-semantic-secondary-sub-neutral-fill-hover-color: #808080; --ldsm-semantic-secondary-sub-neutral-fill-highlighted-color: #b3b3b3; --ldsm-semantic-tertiary-neutral-fill: #555555; --ldsm-semantic-tertiary-neutral-fill-hover-color: #333333; --ldsm-semantic-tertiary-neutral-fill-highlighted-color: #212121; --ldsm-semantic-tertiary-alt-neutral-fill: #2a2a2a; --ldsm-semantic-tertiary-alt-neutral-fill-hover-color: #696969; --ldsm-semantic-tertiary-alt-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-tertiary-sub-neutral-fill: #616161; --ldsm-semantic-tertiary-sub-neutral-fill-hover-color: #404040; --ldsm-semantic-tertiary-sub-neutral-fill-highlighted-color: #2e2e2e; --ldsm-semantic-tertiary-sub-2-neutral-fill: #3f3f3f; --ldsm-semantic-tertiary-sub-2-neutral-fill-hover-color: #808080; --ldsm-semantic-tertiary-sub-2-neutral-fill-highlighted-color: #b3b3b3; --ldsm-semantic-quaternary-neutral-fill: #3f3f3f; --ldsm-semantic-quaternary-neutral-fill-hover-color: #808080; --ldsm-semantic-quaternary-neutral-fill-highlighted-color: #b3b3b3; --ldsm-semantic-quaternary-alt-neutral-fill: #777777; --ldsm-semantic-quaternary-alt-neutral-fill-hover-color: #575757; --ldsm-semantic-quaternary-alt-neutral-fill-highlighted-color: #454545; --ldsm-semantic-quaternary-sub-neutral-fill: #616161; --ldsm-semantic-quaternary-sub-neutral-fill-hover-color: #404040; --ldsm-semantic-quaternary-sub-neutral-fill-highlighted-color: #2e2e2e; --ldsm-semantic-quinary-neutral-fill: #777777; --ldsm-semantic-quinary-neutral-fill-hover-color: #575757; --ldsm-semantic-quinary-neutral-fill-highlighted-color: #454545; --ldsm-semantic-senary-neutral-fill: #949494; --ldsm-semantic-senary-neutral-fill-hover-color: #737373; --ldsm-semantic-senary-neutral-fill-highlighted-color: #616161; --ldsm-semantic-senary-sub-2-neutral-fill: #c8c8c8; --ldsm-semantic-senary-sub-2-neutral-fill-hover-color: #a6a6a6; --ldsm-semantic-senary-sub-2-neutral-fill-highlighted-color: #949494; --ldsm-semantic-septenary-neutral-fill: #b7b7b7; --ldsm-semantic-septenary-neutral-fill-hover-color: #969696; --ldsm-semantic-septenary-neutral-fill-highlighted-color: #858585; --ldsm-semantic-septenary-alt-neutral-fill: #dfdfdf; --ldsm-semantic-septenary-alt-neutral-fill-hover-color: #ababab; --ldsm-semantic-septenary-alt-neutral-fill-highlighted-color: #858585; --ldsm-semantic-septenary-sub-neutral-fill: #ffffff; --ldsm-semantic-septenary-sub-neutral-fill-hover-color: #fcfcfc; --ldsm-semantic-septenary-sub-neutral-fill-highlighted-color: #f5f5f5; --ldsm-semantic-septenary-sub-2-neutral-fill: #e8e8e8; --ldsm-semantic-septenary-sub-2-neutral-fill-hover-color: #b5b5b5; --ldsm-semantic-septenary-sub-2-neutral-fill-highlighted-color: #8f8f8f; --ldsm-semantic-octonary-alt-neutral-fill: #ffffff; --ldsm-semantic-octonary-alt-neutral-fill-hover-color: #fcfcfc; --ldsm-semantic-octonary-alt-neutral-fill-highlighted-color: #f5f5f5; --ldsm-semantic-octonary-sub-neutral-fill: #b7b7b7; --ldsm-semantic-octonary-sub-neutral-fill-hover-color: #969696; --ldsm-semantic-octonary-sub-neutral-fill-highlighted-color: #858585; --ldsm-semantic-octonary-sub-2-neutral-fill: #949494; --ldsm-semantic-octonary-sub-2-neutral-fill-hover-color: #737373; --ldsm-semantic-octonary-sub-2-neutral-fill-highlighted-color: #616161; --ldsm-semantic-nonary-neutral-fill: #ffffff; --ldsm-semantic-nonary-neutral-fill-hover-color: #fcfcfc; --ldsm-semantic-nonary-neutral-fill-highlighted-color: #f5f5f5; --ldsm-semantic-default-neutral-fill: #1f1f1f; --ldsm-semantic-default-neutral-fill-hover-color: #5e5e5e; --ldsm-semantic-default-neutral-fill-highlighted-color: #919191; --ldsm-semantic-default-alt-neutral-fill: #2a2a2a; --ldsm-semantic-default-alt-neutral-fill-hover-color: #696969; --ldsm-semantic-default-alt-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-default-sub-neutral-fill: #c8c8c8; --ldsm-semantic-default-sub-neutral-fill-hover-color: #a6a6a6; --ldsm-semantic-default-sub-neutral-fill-highlighted-color: #949494; --ldsm-semantic-default-sub-2-neutral-fill: #111111; --ldsm-semantic-default-sub-2-neutral-fill-hover-color: #525252; --ldsm-semantic-default-sub-2-neutral-fill-highlighted-color: #858585; --ldsm-semantic-light-neutral-fill: #2a2a2a; --ldsm-semantic-light-neutral-fill-hover-color: #696969; --ldsm-semantic-light-neutral-fill-highlighted-color: #9c9c9c; --ldsm-semantic-light-alt-neutral-fill: #1f1f1f; --ldsm-semantic-light-alt-neutral-fill-hover-color: #5e5e5e; --ldsm-semantic-light-alt-neutral-fill-highlighted-color: #919191; --ldsm-semantic-light-sub-neutral-fill: #3f3f3f; --ldsm-semantic-light-sub-neutral-fill-hover-color: #808080; --ldsm-semantic-light-sub-neutral-fill-highlighted-color: #b3b3b3; --ldsm-semantic-on-light-neutral-fill: #616161; --ldsm-semantic-on-light-neutral-fill-hover-color: #404040; --ldsm-semantic-on-light-neutral-fill-highlighted-color: #2e2e2e; --ldsm-semantic-basic-neutral-fill: #000000; --ldsm-semantic-basic-neutral-fill-hover-color: #404040; --ldsm-semantic-basic-neutral-fill-highlighted-color: #737373; --ldsm-semantic-primary-accent-fill: #6388ff; --ldsm-semantic-primary-accent-fill-hover-color: #506dcc; --ldsm-semantic-primary-accent-fill-highlighted-color: #4158a6; --ldsm-semantic-on-primary-accent-fill: #ffffff; --ldsm-semantic-on-primary-accent-fill-hover-color: #fcfcfc; --ldsm-semantic-on-primary-accent-fill-highlighted-color: #f5f5f5; --ldsm-semantic-secondary-accent-fill: #96b1ff; --ldsm-semantic-secondary-accent-fill-hover-color: #788dcc; --ldsm-semantic-secondary-accent-fill-highlighted-color: #6273a6; --ldsm-semantic-on-secondary-accent-fill: #ffffff; --ldsm-semantic-on-secondary-accent-fill-hover-color: #fcfcfc; --ldsm-semantic-on-secondary-accent-fill-highlighted-color: #f5f5f5; --ldsm-semantic-tertiary-accent-fill: #4d73ff; --ldsm-semantic-tertiary-accent-fill-hover-color: #3d5ccc; --ldsm-semantic-tertiary-accent-fill-highlighted-color: #324ba6; --ldsm-semantic-primary-inverse-fill: #ffffff; --ldsm-semantic-primary-inverse-fill-hover-color: #fcfcfc; --ldsm-semantic-primary-inverse-fill-highlighted-color: #f5f5f5; --ldsm-semantic-on-primary-inverse-fill: #000000; --ldsm-semantic-on-primary-inverse-fill-hover-color: #404040; --ldsm-semantic-on-primary-inverse-fill-highlighted-color: #737373; --ldsm-semantic-secondary-inverse-fill: #e8e8e8; --ldsm-semantic-secondary-inverse-fill-hover-color: #b5b5b5; --ldsm-semantic-secondary-inverse-fill-highlighted-color: #8f8f8f; --ldsm-semantic-on-secondary-inverse-fill: #1f1f1f; --ldsm-semantic-on-secondary-inverse-fill-hover-color: #5e5e5e; --ldsm-semantic-on-secondary-inverse-fill-highlighted-color: #919191; --ldsm-semantic-tertiary-inverse-fill: #f5f5f5; --ldsm-semantic-tertiary-inverse-fill-hover-color: #c2c2c2; --ldsm-semantic-tertiary-inverse-fill-highlighted-color: #9c9c9c; --ldsm-semantic-primary-highlighted-fill: #fff200; --ldsm-semantic-primary-highlighted-fill-hover-color: #ccc200; --ldsm-semantic-primary-highlighted-fill-highlighted-color: #a69d00; --ldsm-semantic-secondary-highlighted-fill: #2a2a2a; --ldsm-semantic-secondary-highlighted-fill-hover-color: #696969; --ldsm-semantic-secondary-highlighted-fill-highlighted-color: #9c9c9c; --ldsm-semantic-primary-background: #111111; --ldsm-semantic-secondary-background: #1f1f1f; --ldsm-semantic-tertiary-background: #2a2a2a; --ldsm-semantic-tertiary-alt-background: #111111; --ldsm-semantic-tertiary-sub-background: #1f1f1f; --ldsm-semantic-secondary-alt-background: #111111; --ldsm-semantic-primary-surface: #111111; --ldsm-semantic-primary-surface-pressed: #1f1f1f; --ldsm-semantic-primary-surface-alt-pressed: rgba(0, 0, 0, .03); --ldsm-semantic-primary-surface-sub-pressed: #383838; --ldsm-semantic-primary-alt-surface: #1f1f1f; --ldsm-semantic-primary-sub-surface: #383838; --ldsm-semantic-popup-surface: #1a1a1a; --ldsm-semantic-popup-alt-surface: #1f1f1f; --ldsm-semantic-context-menu-surface: #3f3f3f; --ldsm-semantic-primary-separator: #1f1f1f; --ldsm-semantic-primary-alt-separator: #383838; --ldsm-semantic-secondary-separator: #2a2a2a; --ldsm-semantic-tertiary-separator: #1f1f1f; --ldsm-semantic-quaternary-separator: #2a2a2a; --ldsm-semantic-light: #ffffff; --ldsm-semantic-light-pressed: rgba(255, 255, 255, .45); --ldsm-semantic-secondary-light: #efefef; --ldsm-semantic-tertiary-light: #dfdfdf; --ldsm-semantic-default-dark: #000000; --ldsm-semantic-primary-dark: #111111; --ldsm-semantic-tertiary-dark: #777777; --ldsm-semantic-quaternary-dark: #949494; --ldsm-semantic-quinary-dark: #616161; --ldsm-semantic-senary-dark: #2a2a2a; --ldsm-semantic-primary-disabled: rgba(255, 255, 255, .4); --ldsm-semantic-primary-alt-disabled: rgba(255, 255, 255, .1); --ldsm-semantic-primary-sub-disabled: rgba(17, 17, 17, .4); --ldsm-semantic-secondary-disabled: rgba(17, 17, 17, .4); --ldsm-semantic-secondary-alt-disabled: rgba(255, 255, 255, .2); --ldsm-semantic-chat-background: #1a1a1a; --ldsm-semantic-chat-bubble-surface: #6de67b; --ldsm-semantic-secondary-on-chat-bubble-surface: #1e6e1e; --ldsm-semantic-tertiary-on-chat-bubble-surface: #3d9e43; --ldsm-semantic-chat-bubble-separator: #58db67; --ldsm-semantic-chat-bubble-content-fill: #5bdd6a; --ldsm-semantic-chat-bubble-content-fill-hover-color: #46ab52; --ldsm-semantic-chat-bubble-content-fill-highlighted-color: #36853f; --ldsm-semantic-primary-legacy-fill: #111111; --ldsm-semantic-primary-legacy-fill-hover-color: #525252; --ldsm-semantic-primary-legacy-fill-highlighted-color: #858585; --ldsm-semantic-quinary-legacy-fill: #777777; --ldsm-semantic-quinary-legacy-fill-hover-color: #575757; --ldsm-semantic-quinary-legacy-fill-highlighted-color: #454545; --ldsm-semantic-secondary-on-legacy-fill: #555555; --ldsm-semantic-secondary-on-legacy-fill-hover-color: #333333; --ldsm-semantic-secondary-on-legacy-fill-highlighted-color: #212121; --ldsm-semantic-primary-legacy-text: #c8c8c8; --ldsm-semantic-primary-legacy-text-hover-color: #a6a6a6; --ldsm-semantic-primary-legacy-text-highlighted-color: #949494; --ldsm-semantic-secondary-legacy-text: #949494; --ldsm-semantic-secondary-legacy-text-hover-color: #737373; --ldsm-semantic-secondary-legacy-text-highlighted-color: #616161; --ldsm-semantic-additional-text: #616161; --ldsm-semantic-additional-text-hover-color: #404040; --ldsm-semantic-additional-text-highlighted-color: #2e2e2e; --ldsm-semantic-swipe-fill: #35db80; --ldsm-semantic-swipe-fill-hover-color: #2dba6c; --ldsm-semantic-swipe-fill-highlighted-color: #28a862; --ldsm-semantic-splash-background: #111111; }
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://static.line-scdn.net/line_web_login/edge/dist/assets/ldsm-text-button-BXS5hqXD.css
+
+@charset "utf-8";
+
+.ldsm-text-button[data-v-ad958ae9] { box-sizing: border-box; display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%; background-color: transparent; border: none; cursor: pointer; outline: none; padding: 0px; appearance: none; }
+
+.ldsm-text-button[data-v-ad958ae9]:disabled { cursor: default; }
+
+.ldsm-text-button--green[data-v-ad958ae9] { color: var(--ldsm-semantic-branding-text); }
+
+.ldsm-text-button--green[data-v-ad958ae9]:hover:not(:disabled) { color: var(--ldsm-semantic-branding-text-hover-color); }
+
+.ldsm-text-button--green[data-v-ad958ae9]:active:not(:disabled) { color: var(--ldsm-semantic-branding-text-highlighted-color); }
+
+.ldsm-text-button--red[data-v-ad958ae9] { color: var(--ldsm-semantic-prominent-text); }
+
+.ldsm-text-button--gray[data-v-ad958ae9] { color: var(--ldsm-semantic-quaternary-alt-text); }
+
+.ldsm-text-button--black[data-v-ad958ae9] { color: var(--ldsm-semantic-primary-text); }
+
+.ldsm-text-button[data-v-ad958ae9]:disabled { color: var(--ldsm-semantic-denary-text); }
+
+.ldsm-text-button_text[data-v-ad958ae9] { font-weight: var(--20e1a779); }
+
+.ldsm-text-button--md[data-v-ad958ae9] { font-size: 15px; }
+
+.ldsm-text-button--lg[data-v-ad958ae9] { font-size: 17px; }
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://static.line-scdn.net/line_web_login/edge/dist/assets/cPinCode-B2vE_bMb.css
+
+@charset "utf-8";
+
+.fade-enter-active[data-v-5e1b85d8], .fade-leave-active[data-v-5e1b85d8] { transition-duration: 0.2s; transition-property: opacity; transition-timing-function: cubic-bezier(0.55, 0, 0.1, 1); overflow: hidden; }
+
+.fade-enter-from[data-v-5e1b85d8], .fade-leave-active[data-v-5e1b85d8] { opacity: 0; }
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://static.line-scdn.net/line_web_login/edge/dist/assets/common-DoF53J76.css
+
+@charset "utf-8";
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, textarea, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary, time, mark, audio, video { margin: 0px; padding: 0px; font-size: 100%; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section { display: block; }
+
+b, strong { font-weight: 700; }
+
+img { border: 0px; vertical-align: top; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+select, input, button { font-size: 100%; margin: 0px; vertical-align: baseline; }
+
+button, input { line-height: normal; }
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; }
+
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0px; }
+
+textarea { overflow: hidden auto; vertical-align: top; }
+
+html { overflow-y: scroll; }
+
+:focus { outline: 0px; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+em, cite { font-style: normal; }
+
+nav, ol, ul { list-style: none; }
+
+table, th, td, fieldset { border: none; }
+
+fieldset legend { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); margin: -1px; padding: 0px; border: 0px; }
+
+hr { display: none; }
+
+html { text-size-adjust: 100%; }
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] { appearance: button; cursor: pointer; }
+
+input, button, textarea { border: 0px; }
+
+:root { overflow-wrap: break-word; box-sizing: border-box; color-scheme: light dark; }
+
+:root:not(input):not(textarea) { -webkit-tap-highlight-color: transparent; }
+
+::before, ::after { box-sizing: inherit; text-decoration: inherit; vertical-align: inherit; }
+
+body { background-color: var(--ldsm-semantic-primary-background, #fff); line-height: 1.231; color: rgb(68, 68, 68); font-family: font-face-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Helvetica Neue", Helvetica, sans-serif; font-size: 13px; }
+
+body.no-scroll { overflow: hidden; }
+
+button, input, select, textarea { font-family: inherit; }
+
+a:link, a:visited { color: var(--ldsm-semantic-primary-link, #4d73ff); text-decoration: none; }
+
+a:hover, a:active, a:focus { color: var(--ldsm-semantic-primary-link, #4d73ff); text-decoration: underline; }
+
+html, body, #__layout { min-height: 100%; height: 100%; }
+
+@media (orientation: landscape) {
+  #__layout { padding-right: env(safe-area-inset-right); padding-left: env(safe-area-inset-left); }
+}
+
+.LyBody { display: flex; height: 100%; box-sizing: content-box; padding-bottom: env(safe-area-inset-bottom); }
+
+@media (min-width: 768px) {
+  .LyBody { margin: 0px auto; }
+}
+
+.LyWrap { -webkit-box-flex: 1; flex: 1 1 auto; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; width: 100%; min-width: 0px; min-height: 100%; }
+
+.LyFoot .lyFootInner { display: flex; -webkit-box-align: center; align-items: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; font-size: 10px; padding-top: 40px; }
+
+@media (min-width: 768px) {
+  .LyFoot .lyFootInner { display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; flex-direction: row; padding: 50px 30px 28px; font-size: 12px; }
+}
+
+@media (max-width: 320px) {
+  .LyFoot .lyFootInner { padding-top: 0px; }
+}
+
+.LyContents { -webkit-box-flex: 1; flex: 1 0 auto; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; width: 100%; }
+
+.LyContents .lyContentsInner { -webkit-box-flex: 1; flex: 1 0 auto; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; min-height: 100%; box-sizing: border-box; }
+
+.MdHide { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); margin: -1px; padding: 0px; border: 0px; }
+
+.MdNonDisp { display: none !important; }
+
+.MdBtn01 { appearance: none; box-sizing: border-box; border-radius: 5px; width: 100%; font-weight: 700; height: 60px; font-size: 16px; background-color: var(--ldsm-semantic-primary-fill, #06c755); text-decoration: none !important; color: var(--ldsm-semantic-on-primary-fill, #ffffff) !important; }
+
+.MdBtn01.ExDisabled { cursor: not-allowed; background-color: var(--ldsm-semantic-quinary-fill, #e8e8e8); }
+
+.MdLogo01 { height: 32px; margin: 49px 0px 35px; text-align: center; }
+
+.MdLogo01 .mdLogo01Img { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 89px; height: 32px; background-size: 89px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABACAMAAACJDt1IAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAHvUExURUdwTADCAAC/AAC+AAC9AAC/AADAAAD/AADEAAC+AAC/AAC/AAD/AAC/AADBAAC+AAC+AAC9AAC/AAC+AAC4AAC4AAC+AADAAAD/AADCAADMAADaAAC5AAC+AADEAAC4AAC/AADMAAC/AAC/AADAAAC+AAC8AAC/AAC4AAC+AAC+AAC+AAC6AADAAAC+AAC/AAC/AADGAAC+AAC+AADQAAC+AAC4AAC+AAC+AAC+AAC+AAC/AADEAADBAAC+AAC+AAC4AADFAAC/AADFAADMAAC/AAC/AAC+AAC+AAC/AAC/AAC9AAC/AAC/AAC+AAC+AAC+AAC/AAC+AAC7AAC/AAC9AAC+AAC+AADAAADGAADIAAC6AADJAAC+AAC/AAC7AAC+AADDAAC9AAC8AADEAAC/AAC9AADAAAC+AAC+AAC4AAC/AAC+AAC8AAC+AAC+AADBAAC/AADGAADBAAC9AAC+AAC+AAC/AAC+AADAAAC/AADAAAC+AAC+AAC+AAC+AADUAAC/AAC9AADDAAC8AAC/AAC/AAC/AAC+AADCAAC8AAC+AAC+AAC/AAC/AAC/AAC+AAC+AAC+AAC9AADBAAC+AAC/AAC5AADBAAC9AAC/AAC8AAC+AAC+AAC+AADCAAC+AAC/AAC+AAC/AAC+AFpxpLIAAACkdFJOUwAqEG7DvCkBGmdlRAKJRovknyAz+/79JQMmCgfn/CPrWQUMFEG96mD2xoq28lLCwHQJ4PEL9fOd5eGZSA1Cufj6FigfD304mp5kaZsEsNxrW5T57oinwdlaGw7jE9Wk30srv9cnLNZerZLvyG/Pfj8ZMBI6zmZqnIJReUnNytR3BpjiEea4gcSHFdNXzHwIqK7d0d4hjoULHbsYUGM3fzs7YY+Q97Mk9gAAAsBJREFUaN7V2vVTG1EQB/CFtjkKqYR4QhJIUrxIkQLFXeru7u7u7u4u+4eWobkj73EvueTu6O33x51d9pMbBpbhAACkREBr7IlI6mV76mlJMC6lz7/Gj5+6MRHPVacGb3CsWh7ARcVK+eatBqVcek487q1xyW2hihylHK5VyqkysbAzuXLbnp48kDzg8svlG8ll907h+LXkvutK+QFqi6sfoIuphNOTZzEDZXK5iilHNgmmA6xgq/xN4dFIxvFnxBZy0pNnMgOz1T8JrvepT+eybXkyWasYbaaR8SI9sqeDHBmLesiRsVMiR8bL9MiuM+TI2HqaHBmXGU/uNZmMRw0nx8wmr3YaSw49A7PJuHxzNuQCm3p6G8F8Mq7LhlyYUmA2GfPpkcv3kSPj/gA5Mg7TI+NKeuRmPzkyHguSI+OqzMgH5grinT4yLjToxmgzkLyA/SuKX3W40KCz6LNZT7nuKb/qSInF7+UZ4QZ+V6XVyfCE3+W+YnUytPHLInlWJ9c/5rfV+ixOBlsTv+6+1clQxq/zxK1Ohu38vruPrE6ObuAX3rtjcTKc6uI3PtRL9pr1CztBhhVTfjrrJDdFTX7KAAdTCwTkovnq2VITB9PJuTuyIf+Pe1khw2A3OTLU0SNLVeTIEGshR4YTIXJkOE6PbN9NjgwnS80jL54jyPl2PWRY4s6IPDRPPZWjjVPI4uwp0UOGtRmRxXnt007GvbrISyuMIWNfBmSnLjL0rTGGbJs+MlyiR4ZD9MjBs+TI4K0mR4aN9MhwgR45sI0cGXaVG0COZNA7kZeq/1CAF0y5WHTSjDBtrnqZ3KyV8RbgvcbWludqF86bqGzpSH6fsLVfeIY5mCtMKb/TyHg1fupI/niBhnz7oHz1n38ciQwPxCYtg7/lsuN7T4q3ckfH5Lahr5OvLEo/fuWnz8iXdqCYvwiylalbDor5AAAAAElFTkSuQmCC"); }
+
+.MdLogo01.mdLogo01P01 { height: 22px; margin: 50px 0px 30px; }
+
+.MdLogo01.mdLogo01P01 .mdLogo01Img { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 60px; height: 22px; background-size: 60px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAsCAMAAACZpYwBAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGDUExURUdwTADFAAC8AAD/AAC+AAC/AAC/AAC8AAC+AAC+AAC+AAC+AADMAADEAAC9AADAAAC+AAC/AAC/AAC/AAC/AAC7AADAAAC+AADBAADBAAD/AAC/AAC7AAC/AAC+AAC+AAC/AAC/AAD/AADGAAC+AADMAAC+AAC+AAC+AADaAAC4AAC+AAC/AAC+AAC4AAC+AAC/AAC9AAC+AAC+AAC+AADAAAC+AAC9AAC9AAC+AAC/AAC+AAC/AADBAAC8AAC8AADAAADAAAC/AAC/AAC+AAC+AAC+AADAAAC/AAC4AADMAAC2AAC+AADAAAC+AAC+AAC8AAC4AAC/AAC9AAC+AAC+AAC4AAC+AAC4AAC/AADUAAC/AADBAAC+AADQAAC+AAC/AAC+AAC/AAC+AAC+AAC4AAC/AAC/AAC+AADBAAC/AAC+AAC+AAC/AAC8AADJAAC8AADFAAC+AAC+AAC/AADGAADGAAC+AAC+AADFAAC/AAC9AADBAAC9AAC+AAC9AAC+AAB5sa8AAACAdFJOUwAWxwGafUzXe2b06QoNr1GubLzgwO4p+SFGA6Dbee25PBgCG/0Fh2t+B/NyVMr3/Azi8aKTJd1i0r4owgQyy+pKYoGF4eiZWgj+Dw7MNZbG0+sQeeyp+jf7MAZgHU8LWyxDUMFL73R1jkLE8PVYzxPmH3/kXBIJreUs1NZXw0dKExgJ/AAAAfFJREFUWMPF1mVzwkAQBuClVGmhjtbd3d3d3d3dXe6nl9leEggcBK7N7bd3drMPgckFADAbsMaAVTmJWFYa7XsYHR0+g2sO7Gzm0zxuYNSj0d1tI7SOGW4/7Rf0YOy00WzxmcymnTI7xl3CrAZ3+1sK7Qx4RhqYwpgpX12sGiyVO72Y59lwhrsdLYUIBhwjDURijJKvrtrxHkyQO3GYY9lwKhdMWkYEwfhTCYHJgSi4O1cQTLKNYcFN3DApDwuu54dtq8HhjGRVPTzxwyQmISic5ncvL0yGRMEkURSclS8IJq15gmCSKQpemgztOa77CAMukd+KVx7v15rQDpAWnjs2WS+UTS4dz2oTxHmsutQTBouy6vxWT/j6Xtl15tQRhtMCZdmdnjAUKcuqHf8Ll3jBhV3Kthvt8Cf3HUNjmZ+9KvgwRVXPr/wwrAeH//jIpDAsioLnBgTBkFMtCIY+UbBzmgvOSlKVy6oRBntdQHjBoipXoyfsW5VaYRgOCPv5sxQYTtcMQ31ocOqfweYmQTAsrwiCvRhd4bx9QTBspIcGf7HbtXj9hBRPMJZLcVB9IlTIF25jPmJvfnO3De/xjHpp/t1noh/j9zzJpd+ArdjnLCoapc+/GWPbLMu1NYOWcpqx5FyDsdDPZCl2tqRoZBbAD1dHRbX83UjLAAAAAElFTkSuQmCC"); }
+
+.MdLogo01.mdLogo01P02 { height: 26px; margin: 30px 0px 46px; }
+
+.MdLogo01.mdLogo01P02 .mdLogo01Img { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 73px; height: 26px; background-size: 73px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJIAAAA0CAMAAABW4JFPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGnUExURUdwTAbIVQbHVQbHVQjJVgbKVgrKWH//fwjIVgjKVQfHVQbIVQfIVQbJVwbHVQbHVQbHVQbHVf///wvMVQbHVQzMWQnPVT//fwbHVR/fXwbHVQbIVQjJVgbHVQfHVgfIVQfHVQfIVQfIVQfHVQbHVgbHVQjKVwbHVQbHVQfHVQbIVQfIVwbHVRLIWwbHVQbIVQbHVQbIVgbIVRfQXArJVQbHVTPMZgbHVQbIVgbHVQbHVQvQXAfIVQfIVgbHVQbHVVX/VQjKVwjIVQbHVQfHVwjIVwfIVQbHVQjHVgbHVgfHVQvHWAbKVQbHVQfIVQnLVQbIVQnJWAbHVQfHVgfHVQfHVhziVQbIVgjLVgbHVQfHVQbHVQbIVQbHVQrMWwbIVQfIVQbHVQfJVQbIVRHMVQbHVSrUVQbHVwfIVgbIVQbHVQbHVQrIVgfMVwbHVQbHVQbIVQbIVQbHVQfIVgjJVQbHVQnNWAfHVQfHVQbHVQbHVQbHVQbHVQbHVQ7UVQfJVgfHVQfIVQbHVQbHVRXUVQbMWQbHVQfHVQfKVgfJVwbHVQfHVQbHVTCTGbIAAACMdFJOUwB6t7lbTTECXj+JumxM8/z+9wEt8RQbBKII3t8+7IuNgSGQ13P9Ovr5aZlG4g7yce12nwsY9gXdmn3JFkKC7ucDHV3pID2HoViptC4nxdY2SzTvjqtqCX87wYrkzPUZqK3raJUP8AZJZ1S90C8jTsLDlsSIWncasK67+OGl+xJt2LHS9AwomGBEQ+BFyR/NywAAAjNJREFUWMPN2edXE0EQAPDBBAkod2mEFEokEJOACCgWFAsoCBYQLDRBUVCQYgMLICCooPNHy3t3Z25flmtsXma+3dzczO9LdvdlYS+GSjR8CIFR1A+phb5wpZqarlZT8vMn3G9qJLVAGtZST4NoGNF9iGWfMkaiW95s4SclVSFnU5d434zoRlUpqQCaRRR0Dy4jUqmusEhJHdd3usP5xq1771FSxaYkFEYKLpIj4cQsORLW0SPhEj1Sy01yJLxfSY6EPQJIsliSt/HopHdiSdh93gYpcSI3XJmQYBLOl1gnnTxklGASXqZHkqvIkXC8ghwJ+/3kSFhPj3R6gBwJo68skXrdnEjmh4SPjrB6j4kifU0xfdPOSc2iSGWbTF/fQuFPAmXwmem7tUuA9H2NaRwmQILkBtP5NwESrDCdd34SIPldTOsfkcKT4Mp1pvcvAiS42sA033ZCksSSIH7oJMukWsGkG6M2SGEPJ26DYBKEXlgn5fkkoJFg0EuOBDX0SBc6yJHg1Aw5EszRI8FLYaTqY5yYKrVPiry1RHrAm/d+FUxX0/ZJ2yS4JzlfvZfNSfjaPgm6nJNkC6RyByRoc0zCfJHOJciRIOAjR4I39EjQR4905mJhSR85q/DDlDPSH9OSgLKZ6s5B7tz7uDRvZzir66JuAndNx8WgscnkdB5X+7dq143f1rVLgMfXtH+UvkS4u1Wt9rN79v/Op1Myntf096CoxDB0A9SM3zjFRm4X03n/ABXLFGt+fmWaAAAAAElFTkSuQmCC"); }
+
+@media (max-width: 320px) {
+  .MdLogo01 { margin: 29px 0px 25px; }
+}
+
+.MdSubTtl01 { font-size: 24px; line-height: 24px; margin-bottom: 25px; color: var(--ldsm-semantic-primary-text, #111111); }
+
+.MdSubTtl01 .mdSubTtl01P01 { margin-top: 15px; font-size: 12px; line-height: 24px; color: var(--ldsm-semantic-primary-text, #111111); }
+
+.MdBox01 { -webkit-box-flex: 1; flex: 1 0 auto; box-sizing: border-box; }
+
+.MdBox01 .mdBox01Inner { padding-top: 1px; }
+
+@media (min-width: 768px) {
+  .MdBox01 { display: flex; -webkit-box-align: center; align-items: center; margin: 0px auto; width: 500px !important; }
+  .MdBox01 .mdBox01Inner { -webkit-box-flex: 1; flex: 1 0 auto; border: 1px solid var(--ldsm-semantic-secondary-separator, #dfdfdf); border-radius: 16px; width: 500px !important; }
+}
+
+.MdMN09FallBack { font-family: font-face-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Helvetica Neue", Helvetica, sans-serif; }
+
+.mdMN09Thumb { width: 100px; height: 100px; }
+
+.mdMN09Thumb_image { border-radius: 22px; width: 100%; }
+
+.mdMN09AppName { font-weight: 600; font-size: 14px; color: rgb(68, 68, 68); letter-spacing: 0px; line-height: 20px; }
+
+.mdMN09AppDeveloper { font-size: 12px; color: rgb(68, 68, 68); letter-spacing: 0px; line-height: 15px; }
+
+.mdMN09AppDesc { font-size: 12px; color: rgb(68, 68, 68); letter-spacing: 0px; line-height: 18px; }
+
+.mdMN09Ask { font-size: 14px; font-weight: 600; color: rgb(68, 68, 68); letter-spacing: 0px; line-height: 20px; }
+
+.mdMN09Btn { width: 156px; height: 60px; border-radius: 5px; }
+
+.mdMN09Btn:link, .mdMN09Btn:visited, .mdMN09Btn:hover, .mdMN09Btn:active, .mdMN09Btn:focus { text-decoration: none; }
+
+.mdMN09Btn-cancel { background-color: rgb(222, 229, 236); }
+
+.mdMN09Btn-cancel:active { background-color: rgb(173, 191, 208); }
+
+.mdMN09Btn-cancel_text { color: rgb(108, 121, 133); }
+
+.mdMN09Btn-accept { background-color: rgb(0, 185, 0); }
+
+.mdMN09Btn-accept:active { background-color: rgb(0, 109, 0); }
+
+.mdMN09Btn-accept_text { color: rgb(255, 255, 255); }
+
+.mdMN09Btn_text { line-height: 20px; font-size: 16px; text-decoration: none; }
+
+.MdGFT01Copy { -webkit-box-ordinal-group: 2; order: 2; margin: 0px 30px 30px; line-height: 23px; color: var(--ldsm-semantic-quaternary-sub-text, #bec8d2); font-size: 12px; }
+
+.MdGFT01Copy b { font-weight: 400; }
+
+@media (min-width: 768px) {
+  .MdGFT01Copy { -webkit-box-ordinal-group: 1; order: 1; -webkit-box-flex: 0; flex: 0 0 auto; margin: 0px; }
+}
+
+.MdGFT02Link { -webkit-box-ordinal-group: 1; order: 1; width: 100%; font-size: 12px; line-height: 23px; }
+
+.MdGFT02Link .mdGFT02Ul { margin-bottom: 15px; text-align: center; }
+
+.MdGFT02Link .mdGFT02Ul li { display: inline-block; margin: 0px 11px; }
+
+.MdGFT02Link .mdGFT02Ul a { color: var(--ldsm-semantic-quaternary-sub-text, #6c7985); }
+
+@media (min-width: 768px) {
+  .MdGFT02Link { -webkit-box-ordinal-group: 2; order: 2; -webkit-box-flex: 1; flex: 1 1 auto; }
+  .MdGFT02Link .mdGFT02Ul { margin-bottom: 0px; float: right; }
+  .MdGFT02Link .mdGFT02Ul li { margin: 0px 11px; }
+  .MdGFT02Link .mdGFT02Ul li:first-child { margin-left: 0px; }
+  .MdGFT02Link .mdGFT02Ul li:last-child { margin-right: 0px; }
+}
+
+.MdLYR01Layer { position: fixed; top: 0px; left: 0px; z-index: 100; width: 100%; height: 100%; }
+
+.MdLYR01Layer .mdLYR01Overlay { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background-color: var(--ldsm-palette-line-dim-70, rgba(0, 0, 0, .7)); }
+
+.MdLYR01Layer .mdLYR01Inner { display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; transform: translate(50%, 50%); position: absolute; bottom: 50%; right: 50%; width: calc(100% - env(safe-area-inset-right) - env(safe-area-inset-left) - 25px); max-height: calc(100% - 100px); overflow: hidden; box-sizing: border-box; background-color: var(--ldsm-semantic-popup-surface, #ffffff); border-radius: 3px; }
+
+@media (min-width: 768px) {
+  .MdLYR01Layer .mdLYR01Inner { max-width: 500px; }
+}
+
+.MdLYR01Layer .mdLYR01Body { -webkit-box-flex: 1; flex: 1 1 auto; overflow-y: auto; }
+
+.MdLYR01Layer .mdLYR01Head { position: relative; padding: 23px 65px 23px 17px; background-color: var(--ldsm-semantic-secondary-background, #fcfcfc); border-radius: 3px 3px 0px 0px; }
+
+.MdLYR01Layer .mdLYR01Ttl01 { font-size: 16px; font-weight: 700; line-height: 1.5; color: var(--ldsm-semantic-primary-text, #111111); }
+
+.MdLYR01Layer .mdLYR01Close { position: absolute; top: calc(50% - 25px); right: 0px; width: 50px; height: 50px; background-color: transparent; }
+
+.MdLYR01Layer .mdLYR01CloseIco { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 18px; height: 18px; background-size: 18px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkBAMAAAATLoWrAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAYUExURUdwTGZmZmZmZmZmZl9fX2ZmZmhoaGZmZhlsrWAAAAAHdFJOUwBX/OP9UEkFRsV+AAAAdklEQVQoz2NgGAiQbApjBZtBGeZFAhAGo3oxTKhcEcIQKocJBZVDlDGql6sywNRDlAmVw0yAsWEySMqQFUF4KIogylAVgZSVuKMoAitDU8TAIFJe7shASAiLRkzjsTgC06lYPITpbSyBgyUIsQQ0lujAEmn0BQBp1if79FkxIAAAAABJRU5ErkJggg=="); }
+
+.MdLYR01Layer .mdLYR01Content { padding: 40px 25px; text-align: center; }
+
+.MdLYR01Layer .mdLYR01Txt01 { padding: 0px 0px 40px; line-height: 24px; color: var(--ldsm-semantic-secondary-text, #555555); }
+
+.MdLYR01Layer .mdLYR01Ul li { margin-bottom: 40px; }
+
+.MdLYR01Layer .mdLYR01Ul li:last-child { margin-bottom: 0px; }
+
+.MdLYR01Layer .MdIco01Setting { margin: 0px 5px; vertical-align: text-bottom; }
+
+.MdLYR01Layer .mdLYR02QrCode { padding: 50px 56px; }
+
+.MdLYR01Layer .mdLYR02Txt01 { padding: 0px 0px 20px; text-align: center; font-size: 14px; line-height: 24px; color: var(--ldsm-semantic-secondary-text, #555555); }
+
+.MdLYR01Layer .mdLYR02Box01 { display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border: 2px solid var(--ldsm-semantic-secondary-separator, #dfdfdf); box-sizing: border-box; }
+
+.MdLYR01Layer .mdLYR02Box01Ol { margin: 22px 27px; max-width: 100%; }
+
+.MdLYR01Layer .mdLYR02Box01Ol > li { padding-bottom: 10px; margin-left: 10px; color: var(--ldsm-semantic-tertiary-text, #777777); font-size: 14px; line-height: 16px; text-align: left; list-style-type: decimal; overflow-wrap: break-word; }
+
+.MdLYR01Layer .mdLYR02Box01Ol > li:last-child { padding-bottom: 0px; }
+
+.MdLYR01Layer .mdLYR02Box01Ol .MdIco01AddFriend { margin: 0px 5px; vertical-align: text-bottom; }
+
+@media (min-width: 768px) {
+  .MdLYR01Layer .mdLYR01Head { padding: 23px 65px 23px 25px; }
+  .MdLYR01Layer .mdLYR01Ttl01 { font-size: 20px; }
+  .MdLYR01Layer .mdLYR01Content { padding: 50px 62px; }
+}
+
+.MdLYR03Error { box-sizing: border-box; }
+
+.mdLYR03Title { display: flex; margin-bottom: 35px; text-align: center; justify-content: center; flex-direction: row; padding: 0px 25px; }
+
+@media (min-width: 768px) {
+  .mdLYR03Title { padding: 0px 62px; }
+}
+
+.mdLYR03Icon { box-sizing: content-box; margin-right: 9px; flex: 0 0 auto; }
+
+.mdLYR03Desc { text-align: center; padding: 0px 25px; }
+
+@media (min-width: 768px) {
+  .mdLYR03Desc { padding: 0px 62px 50px; }
+}
+
+.MdIco01Alert { display: inline-block; overflow: hidden; background-repeat: no-repeat; text-align: left; text-indent: -9999px; width: 25px; height: 25px; background-size: 25px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADYUExURUdwTN/m7N/v79rh6N///9/l7Nvl6ePs7N7m7d7l6d7m7N7o7trl7N3l6t7l7drh6N/l7d7l6O7u7t3k7N/m7t7m7d7l69/m7d/m7eDn7t7l7N7l7P////X3+evv8/b4+vH09/P1+PL09/7+/uru8+fs8e/y9ubr8PT3+eTq79/m7Pj6+/r7/OXr8OXq8PL19+jt8eHn7t/m7e3x9O/y9ePp7+3x9enu8uru8u7x9ezw9Ojt8uLo7uHn7eDn7fz8/d/l7Pb4+fz9/fj5++/z9vT2+Pf4+u7y9edE5MoAAAAbdFJOUwCIEP4Iee0cuvmlTvbsnv1Z+g/dapPFuZJr3N0uuRgAAAG6SURBVEjHnZbnksIwDIRDDyUhCQnlZHo/4Hrv/d7/jS4CjgG8CjPRT+18Y8teyzIMLTynXqtY+bxVqdUdzzgYOd90aStc089FA3aZtCjbMpRMlAhGKZHERDFLYmSLiMikKCJSGQ1IF+hAFNJ7RJUORnWX0dYYnF5NtXV26thXH5RS/fF+dqueolZ5M0TURDuDzbkl9dNtM9LWz/r/fhJ6qRNGmno+sXYJuPMuI13gg5V3bHCgHUY6QLCXiwAn0oiRERDKvEwDXdsNI5dI8UPEREKLkRZSzPANuki4Y+QWKa5nONBPZ4wMoeQYAcyPGTmBUoBLoSkj14SLqcD8EyPPUKoYFsy/MHIMJcvIw/wbmx+/tLyAUF+pVwnBG6MPpeYkbAyXT3OlPrFyJBwyzZR6x0pNuEr6UeobK3XBMPz4eyQYBtuSn+UXCbYUivkVvM/mN3y8/mKB8770kMVYPmTYLsSwxaYUBjTluimh1kcXbTU7F1sfarB0D/vYpsGCNk491GBTxYjPgoaoKWUivyR67A0iv6Q4H1+M7zXOJx5rVIgzkMQZe5ZQY3+4auQOj2SeE5irEc4M0Aj3ByBbz9hlKGR7AAAAAElFTkSuQmCC"); }
+
+.mdMN10Title { font-size: 20px; color: rgb(138, 146, 159); line-height: 25px; }
+
+.mdMN10Desc { font-size: 14px; color: rgb(138, 146, 159); text-align: center; line-height: 24px; }
+
+.grecaptcha-badge { visibility: hidden; }
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-ad3c8e8a-d6c9-4a17-8aab-76bc56f9a94c@mhtml.blink
+
+@charset "utf-8";
+
+.global-overlays { position: fixed; z-index: 200; }
+
+.global-overlays__overlay { pointer-events: auto; }
+
+.global-overlays__overlay-container { display: flex; position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; pointer-events: none; }
+
+.global-overlays__overlay-container--top-left { justify-content: flex-start; align-items: flex-start; }
+
+.global-overlays__overlay-container--top { justify-content: center; align-items: flex-start; }
+
+.global-overlays__overlay-container--top-right { justify-content: flex-end; align-items: flex-start; }
+
+.global-overlays__overlay-container--right { justify-content: flex-end; align-items: center; }
+
+.global-overlays__overlay-container--bottom-left { justify-content: flex-start; align-items: flex-end; }
+
+.global-overlays__overlay-container--bottom { justify-content: center; align-items: flex-end; }
+
+.global-overlays__overlay-container--bottom-right { justify-content: flex-end; align-items: flex-end; }
+
+.global-overlays__overlay-container--left { justify-content: flex-start; align-items: center; }
+
+.global-overlays__overlay-container--center { justify-content: center; align-items: center; }
+
+.global-overlays__overlay--bottom-sheet { width: 100%; }
+
+.global-overlays .global-overlays__backdrop { content: ""; position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; z-index: -1; background-color: rgb(51, 51, 51); filter: opacity(30%); display: none; }
+
+.global-overlays .global-overlays__backdrop--visible { display: block; }
+
+.global-overlays .global-overlays__backdrop--animation-in { animation: 300ms ease 0s 1 normal none running global-overlays-backdrop-fade-in; }
+
+.global-overlays .global-overlays__backdrop--animation-out { animation: 300ms ease 0s 1 normal none running global-overlays-backdrop-fade-out; opacity: 0; }
+
+@keyframes global-overlays-backdrop-fade-in { 
+  0% { opacity: 0; }
+}
+
+@keyframes global-overlays-backdrop-fade-out { 
+  0% { opacity: 0.3; }
+}
+
+body > [inert] { user-select: none; pointer-events: none; }
+
+body.global-overlays-scroll-lock { overflow: hidden; }
+
+body.global-overlays-scroll-lock-ios-fix { position: fixed; width: 100%; }
+
+html.global-overlays-scroll-lock-ios-fix { height: 100vh; }
+------MultipartBoundary--sK84w0N9hzXw9oSy2queWxDq8pVycElBppp576gB1N------
